@@ -3,7 +3,7 @@
 ## Fuga Identitária: A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  
-**Entrega:** 2 de 7  
+**Entrega:** 2 do ciclo numerado de 0 a 7  
 **Conteúdo:** Parte II — *Leia o que lê você*  
 **Estado esperado ao final:** escrita integral, auditada, diagramada e pronta para revisão de Sol
 
