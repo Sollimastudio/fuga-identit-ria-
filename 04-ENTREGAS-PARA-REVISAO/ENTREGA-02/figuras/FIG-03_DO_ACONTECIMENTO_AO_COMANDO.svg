@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1450" viewBox="0 0 1200 1450" role="img" aria-labelledby="title desc">
+<title id="title">Do acontecimento ao comando</title>
+<desc id="desc">Cada camada acrescenta algo ao que ocorreu.</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,6 L0,12 z" fill="#D84A3A"/>
+</marker>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#0B1020" flood-opacity=".10"/>
+</filter>
+</defs>
+<rect width="1200" height="1450" fill="#F4EFE6"/>
+<rect x="0" y="0" width="1200" height="36" fill="#D84A3A"/>
+<text x="90" y="118" font-family="Nimbus Sans Narrow" font-size="58" font-weight="700" fill="#0B1020">Do acontecimento ao comando</text>
+<text x="90" y="170" font-family="Nimbus Sans" font-size="26" fill="#5F7F83">Cada camada acrescenta algo ao que ocorreu.</text>
+<line x1="90" y1="205" x2="1110" y2="205" stroke="#5F7F83" stroke-width="3"/>
+<rect x="150" y="235" width="900" height="175" rx="24" fill="#FFFFFF" stroke="#5F7F83" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="235" cy="301" r="42" fill="#0B1020"/>
+<text x="235" y="315" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">1</text>
+<text x="320" y="302" font-family="Nimbus Sans" font-size="34" font-weight="700" fill="#0B1020">ACONTECIMENTO / FATO</text>
+<text x="320" y="353" font-family="Bitstream Charter" font-size="30" fill="#20242B">O que ocorreu?</text>
+<line x1="600" y1="419" x2="600" y2="428" stroke="#D84A3A" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="150" y="438" width="900" height="175" rx="24" fill="#F9F6F0" stroke="#5F7F83" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="235" cy="504" r="42" fill="#0B1020"/>
+<text x="235" y="518" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">2</text>
+<text x="320" y="505" font-family="Nimbus Sans" font-size="34" font-weight="700" fill="#0B1020">RECORTE</text>
+<text x="320" y="556" font-family="Bitstream Charter" font-size="30" fill="#20242B">O que entrou e saiu?</text>
+<line x1="600" y1="622" x2="600" y2="631" stroke="#D84A3A" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="150" y="641" width="900" height="175" rx="24" fill="#FFFFFF" stroke="#5F7F83" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="235" cy="707" r="42" fill="#0B1020"/>
+<text x="235" y="721" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">3</text>
+<text x="320" y="708" font-family="Nimbus Sans" font-size="34" font-weight="700" fill="#0B1020">INTERPRETAÇÃO</text>
+<text x="320" y="759" font-family="Bitstream Charter" font-size="30" fill="#20242B">Que sentido foi atribuído?</text>
+<line x1="600" y1="825" x2="600" y2="834" stroke="#D84A3A" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="150" y="844" width="900" height="175" rx="24" fill="#F9F6F0" stroke="#5F7F83" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="235" cy="910" r="42" fill="#0B1020"/>
+<text x="235" y="924" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">4</text>
+<text x="320" y="911" font-family="Nimbus Sans" font-size="34" font-weight="700" fill="#0B1020">RECLASSIFICAÇÃO</text>
+<text x="320" y="962" font-family="Bitstream Charter" font-size="30" fill="#20242B">Que nome moral mudou?</text>
+<line x1="600" y1="1028" x2="600" y2="1037" stroke="#D84A3A" stroke-width="6" marker-end="url(#arrow)"/>
+<rect x="150" y="1047" width="900" height="175" rx="24" fill="#FFFFFF" stroke="#5F7F83" stroke-width="3" filter="url(#shadow)"/>
+<circle cx="235" cy="1113" r="42" fill="#D84A3A"/>
+<text x="235" y="1127" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">5</text>
+<text x="320" y="1114" font-family="Nimbus Sans" font-size="34" font-weight="700" fill="#0B1020">COMANDO</text>
+<text x="320" y="1165" font-family="Bitstream Charter" font-size="30" fill="#20242B">O que devo pensar ou fazer?</text>
+<text x="600.0" y="1395" text-anchor="middle" font-family="Nimbus Sans" font-size="24" fill="#666B73">Volte pelo caminho inverso para testar se o comando decorre do fato.</text>
+</svg>

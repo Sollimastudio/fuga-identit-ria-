@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-labelledby="title desc">
+<title id="title">Polos não são eixo</title>
+<desc id="desc">A posição nasce do critério, não da distância entre extremos.</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,6 L0,12 z" fill="#D84A3A"/>
+</marker>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#0B1020" flood-opacity=".10"/>
+</filter>
+</defs>
+<rect width="1200" height="1700" fill="#F4EFE6"/>
+<rect x="0" y="0" width="1200" height="36" fill="#D84A3A"/>
+<text x="90" y="118" font-family="Nimbus Sans Narrow" font-size="58" font-weight="700" fill="#0B1020">Polos não são eixo</text>
+<text x="90" y="170" font-family="Nimbus Sans" font-size="26" fill="#5F7F83">A posição nasce do critério, não da distância entre extremos.</text>
+<line x1="90" y1="205" x2="1110" y2="205" stroke="#5F7F83" stroke-width="3"/>
+<rect x="105" y="270" width="390" height="175" rx="24" fill="#0B1020"/>
+<text x="300" y="342" text-anchor="middle" font-family="Nimbus Sans" font-size="36" font-weight="700" fill="#FFFFFF">POLO A</text>
+<text x="300" y="393" text-anchor="middle" font-family="Bitstream Charter" font-size="28" fill="#F4EFE6">Resposta absolutizada</text>
+<rect x="705" y="270" width="390" height="175" rx="24" fill="#D84A3A"/>
+<text x="900" y="342" text-anchor="middle" font-family="Nimbus Sans" font-size="36" font-weight="700" fill="#FFFFFF">POLO B</text>
+<text x="900" y="393" text-anchor="middle" font-family="Bitstream Charter" font-size="28" fill="#FFFFFF">Resposta absolutizada</text>
+<line x1="300" y1="455" x2="500" y2="550" stroke="#5F7F83" stroke-width="7" marker-end="url(#arrow)"/>
+<line x1="900" y1="455" x2="700" y2="550" stroke="#5F7F83" stroke-width="7" marker-end="url(#arrow)"/>
+<rect x="275" y="570" width="650" height="135" rx="25" fill="#FFFFFF" stroke="#D84A3A" stroke-width="5" filter="url(#shadow)"/>
+<text x="600" y="625" text-anchor="middle" font-family="Nimbus Sans" font-size="31" font-weight="700" fill="#0B1020">EIXO = CRITÉRIO VERIFICÁVEL</text>
+<text x="600" y="668" text-anchor="middle" font-family="Bitstream Charter" font-size="27" fill="#20242B">O mesmo teste para ambos os polos</text>
+<rect x="110" y="770" width="310" height="85" rx="17" fill="#5F7F83"/>
+<text x="265.0" y="824" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">REALIDADE</text>
+<rect x="445" y="770" width="310" height="85" rx="17" fill="#5F7F83"/>
+<text x="600.0" y="824" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">VALORES</text>
+<rect x="780" y="770" width="310" height="85" rx="17" fill="#5F7F83"/>
+<text x="935.0" y="824" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">COERÊNCIA</text>
+<rect x="110" y="890" width="470" height="85" rx="17" fill="#5F7F83"/>
+<text x="345.0" y="944" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">RESPONSABILIDADE</text>
+<rect x="605" y="890" width="485" height="85" rx="17" fill="#5F7F83"/>
+<text x="847.5" y="944" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">CONSEQUÊNCIAS</text>
+<rect x="110" y="1010" width="310" height="85" rx="17" fill="#5F7F83"/>
+<text x="265.0" y="1064" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">SIMETRIA</text>
+<rect x="445" y="1010" width="645" height="85" rx="17" fill="#5F7F83"/>
+<text x="767.5" y="1064" text-anchor="middle" font-family="Nimbus Sans" font-size="24" font-weight="700" fill="#FFFFFF">RECONHECIMENTO DO OUTRO</text>
+<line x1="600" y1="1128" x2="600" y2="1218" stroke="#D84A3A" stroke-width="7" marker-end="url(#arrow)"/>
+<rect x="200" y="1240" width="800" height="190" rx="28" fill="#0B1020" stroke="#0B1020" stroke-width="3"/>
+<text x="600" y="1315" text-anchor="middle" font-family="Nimbus Sans" font-size="40" font-weight="700" fill="#FFFFFF">POSIÇÃO RESPONSÁVEL</text>
+<text x="600" y="1373" text-anchor="middle" font-family="Bitstream Charter" font-size="29" fill="#F4EFE6">Pode coincidir com um polo</text>
+<text x="600.0" y="1645" text-anchor="middle" font-family="Nimbus Sans" font-size="24" fill="#666B73">Eixo não é ponto médio: é o lugar que os fatos e os valores sustentam.</text>
+</svg>

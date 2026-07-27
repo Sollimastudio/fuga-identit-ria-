@@ -2,6 +2,85 @@
 
 Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 
+## 2026-07-27 — Entrega 2 concluída tecnicamente
+
+### Adicionado
+
+- abertura integral da Parte II — “Leia o que lê você”;
+- capítulos 4 a 7 em versão integral;
+- cinco camadas entre acontecimento e comando;
+- Matriz NARRATIVA com nove movimentos e varredura rápida;
+- distinções entre valor declarado, valor operante, convicção examinada e convicção protegida;
+- cinco testes da lógica da situação;
+- dez Comandos de Autoria;
+- casos e contracasos compostos, sem correspondência identificável;
+- FIG-03 a FIG-06 como diagramas funcionais em SVG e PNG;
+- quatorze referências científicas, constitucionais e textuais verificadas;
+- Markdown-fonte, DOCX refluível, PDF estável e ferramenta reprodutível;
+- registro editorial com evidências, limites, contrapontos, métricas, QA e hashes;
+- comando operacional completo da Entrega 3.
+
+### Verificado
+
+- 9.655 palavras de texto principal e 10.191 com notas e referências;
+- 54 páginas físicas: uma folha técnica sem numeração e 53 páginas de conteúdo;
+- formato 14 × 21 cm, páginas editoriais 61 a 113;
+- inspeção visual de todas as páginas;
+- ausência de cortes, sobreposições, transbordamentos e páginas vazias acidentais;
+- quatro figuras incorporadas com legenda e texto alternativo;
+- figuras testadas em escala real, celular e tons de cinza;
+- PDF marcado, metadados corretos e fontes incorporadas;
+- auditoria de acessibilidade com zero ocorrências.
+
+### Decidido
+
+- narrativa não será tratada como sinônimo de mentira;
+- cinco camadas e Matriz NARRATIVA permanecerão ferramentas diferentes;
+- “valor operante” será a expressão normalizada;
+- eixo significará critério verificável, não ponto médio;
+- “hipocrisia prática da separação” será posição autoral definida por premissa, assimetria e incongruência, não insulto;
+- direitos públicos não serão tratados como prêmio por voto;
+- fé e neutralidade política não serão igualadas automaticamente a captura;
+- o leitor será convidado a aplicar as ferramentas também ao próprio livro;
+- a linguagem visual abstrata foi substituída por diagramas editoriais funcionais;
+- a Entrega 2 aguardará revisão de Sol antes de ser fundida ao manuscrito mestre.
+
+## 2026-07-27 — Entrega 1 concluída tecnicamente
+
+### Adicionado
+
+- abertura integral da Parte I — “Antes do propósito, existe um eu”;
+- capítulos 1 a 3 em versão integral;
+- casos compostos de Helena, Caio e Lívia, sem correspondência identificável;
+- comandos **PARE**, **RECUPERE A PERGUNTA**, **SEPARE BUSCA DE FUGA** e **IDENTIFIQUE A FUGA**;
+- FIG-02 — “Duas fugas, o mesmo ciclo de alívio e terceirização”;
+- registro do prompt visual e texto alternativo;
+- doze referências sobre identidade, autonomia, propósito, evitação e incerteza grupal;
+- Markdown-fonte, DOCX refluível, PDF estável e ferramenta reprodutível da Entrega 1;
+- registro editorial com limites de evidência, contrapontos, métricas, QA e hashes;
+- comando operacional completo da Entrega 2;
+- novo lote de pesquisa registrado na Central de Pesquisa.
+
+### Verificado
+
+- 5.654 palavras de texto principal e 6.305 com notas e referências;
+- 38 páginas físicas: uma abertura técnica, 36 páginas de Parte I e uma página de referências;
+- formato 14 × 21 cm, páginas editoriais 24 a 60;
+- inspeção visual de todas as páginas;
+- ausência de cortes, sobreposições, transbordamentos, páginas vazias e legendas órfãs;
+- uma imagem incorporada com legenda e texto alternativo;
+- PDF marcado, metadados corretos e fontes incorporadas;
+- auditoria de acessibilidade com zero ocorrências.
+
+### Decidido
+
+- dúvida, mudança, influência, pertencimento, adoção e descanso não serão tratados automaticamente como fuga;
+- o critério será autoria, liberdade de exame, integração com a realidade e responsabilidade;
+- propósito próprio foi apresentado como hipótese autoral ligada à autoria, não como lei clínica;
+- incerteza e identificação grupal foram apresentadas como relação contextual, não universal;
+- movimentos, religiões, política, algoritmos e rótulos continuam reservados às partes seguintes;
+- a Entrega 1 aguardará revisão de Sol antes de ser fundida ao manuscrito mestre.
+
 ## 2026-07-26 — Revisão editorial final da Entrega 0
 
 ### Revisado

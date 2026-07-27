@@ -1,17 +1,17 @@
 # Status Editorial
 
-**Atualização:** 26 de julho de 2026  
+**Atualização:** 27 de julho de 2026  
 **Arquitetura:** versão 2.0 canônica  
-**Estado geral:** Entrega 0 concluída e revisada; Entrega 1 pronta para produção
+**Estado geral:** Entrega 0 concluída e revisada; Entregas 1 e 2 concluídas tecnicamente e aguardando revisão de Sol
 
 ## Entregas
 
 | Entrega | Conteúdo | Estado |
 |---|---|---|
 | 0 | Nota da autora, nota conceitual e introdução | **Concluída e revisada** |
-| 1 | Parte I — capítulos 1 a 3 | **Próxima entrega** |
-| 2 | Parte II — capítulos 4 a 7 | Planejada |
-| 3 | Parte III — capítulos 8 a 12 | Planejada |
+| 1 | Parte I — capítulos 1 a 3 | **Escrita, auditada, diagramada e aguardando revisão de Sol** |
+| 2 | Parte II — capítulos 4 a 7 | **Escrita, auditada, diagramada e aguardando revisão de Sol** |
+| 3 | Parte III — capítulos 8 a 12 | **Próxima entrega após revisão** |
 | 4 | Parte IV — capítulos 13 a 17 | Planejada |
 | 5 | Parte V — capítulos 18 a 21 | Planejada |
 | 6 | Parte VI — capítulos 22 a 24 | Planejada |
@@ -33,7 +33,22 @@
 - DOCX e PDF paginado da Entrega 0;
 - registro editorial e auditoria técnica da Entrega 0;
 - inventário e proteção dos anexos sensíveis.
+- abertura da Parte I e capítulos 1 a 3 integrais;
+- três casos compostos e quatro comandos de autoria;
+- FIG-02 — “Duas fugas, o mesmo ciclo de alívio e terceirização”;
+- DOCX refluível e PDF de 38 páginas da Entrega 1;
+- registro editorial, fontes, hashes, prompt visual e comando completo da Entrega 2;
+- auditoria visual das 38 páginas e acessibilidade sem ocorrências.
+- abertura da Parte II e capítulos 4 a 7 integrais;
+- Matriz NARRATIVA aplicada, cinco testes da lógica da situação e dez Comandos de Autoria;
+- casos e contracasos compostos sobre pertencimento, valores, celebração e neutralidade;
+- FIG-03 a FIG-06 em SVG editável e PNG de alta resolução;
+- DOCX refluível e PDF de 54 páginas da Entrega 2, com páginas editoriais 61 a 113;
+- registro editorial, fontes verificadas, hashes e comando operacional completo da Entrega 3;
+- auditoria visual das 54 páginas, figuras testadas em celular e tons de cinza e acessibilidade sem ocorrências.
 
-## Próximo marco
+## Próximos marcos
 
-Produzir a Entrega 1 — Parte I inteira, capítulos 1 a 3, seguindo o comando consolidado no Registro Editorial da Entrega 0.
+1. Sol revisar a Entrega 2 e apontar cortes, aprofundamentos ou correções.
+2. Após a revisão, iniciar a Entrega 3 — Parte III inteira, capítulos 8 a 12.
+3. Não fundir as Entregas 1 ou 2 ao manuscrito mestre antes da aprovação explícita.

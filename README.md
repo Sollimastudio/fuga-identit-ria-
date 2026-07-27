@@ -3,7 +3,7 @@
 ## A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  
-**Estado:** arquitetura canônica 2.0; Entrega 0 concluída e revisada; Entrega 1 pronta para produção  
+**Estado:** arquitetura canônica 2.0; Entrega 0 concluída e revisada; Entregas 1 e 2 concluídas tecnicamente e aguardando revisão de Sol  
 **Natureza:** ensaio autoral investigativo e de posicionamento  
 **Visibilidade exigida:** privada
 
@@ -77,9 +77,9 @@ Leia `GOVERNANCA_E_PRIVACIDADE.md` antes de trabalhar no projeto.
 
 ## Próxima execução
 
-**Produzir a Entrega 1 — Parte I inteira: “Antes do propósito, existe um eu”, capítulos 1 a 3.**
+**Revisar a Entrega 2 — Parte II inteira: “Leia o que lê você”, capítulos 4 a 7.**
 
-O comando consolidado de produção está em `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/REGISTRO_EDITORIAL_ENTREGA_00.md`.
+Após a revisão de Sol, o próximo comando curto é **“Comece a Entrega 3.”** O escopo operacional completo está em `04-ENTREGAS-PARA-REVISAO/ENTREGA-02/PROMPT_PROXIMA_ENTREGA_03.md`.
 
 ---
 

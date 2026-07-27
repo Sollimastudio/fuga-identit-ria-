@@ -1752,3 +1752,64 @@ Nenhuma parte será considerada canônica apenas porque foi gerada. A aprovaçã
 10. nenhum novo assunto mudará a arquitetura automaticamente; primeiro será triado.
 
 > **A arquitetura agora está fechada o suficiente para começar a escrita e aberta apenas ao tipo de descoberta que corrigiria um erro, preencheria uma lacuna real ou impediria um dano.**
+
+---
+
+## 19. Registro de pesquisa — Entrega 1
+
+### Escopo fechado
+
+**Parte I — Antes do propósito, existe um eu**, capítulos 1 a 3.
+
+O lote foi limitado aos fundamentos necessários para separar:
+
+- busca de fuga;
+- mudança de desaparecimento;
+- influência de captura;
+- pertencimento de fusão;
+- descanso de evitação rígida;
+- missão recebida de propósito integrado;
+- alívio de prova de verdade.
+
+Movimentos, religiões, política, rótulos, algoritmos e casos familiares permaneceram fora deste lote para não antecipar as partes seguintes.
+
+### Bases verificadas e promovidas
+
+| Eixo | Fonte principal | Uso autorizado |
+|---|---|---|
+| desenvolvimento da identidade | Branje et al. (2021), DOI 10.1111/jora.12678 | continuidade, exploração, compromisso, reconsideração e contexto relacional |
+| estados identitários | Verschueren et al. (2017), DOI 10.5334/pb.348 | distinção analítica entre exploração e compromisso |
+| fechamento antecipado | Schwartz et al. (2011), DOI 10.1007/s10964-010-9606-6 | estabilidade possível e riscos contextuais, sem patologização |
+| autonomia e internalização | Ryan e Deci (2000; 2006) | autonomia como endosso e integração, não isolamento |
+| propósito | Damon, Menon e Bronk (2003); OECD (2024); Hill et al. (2016) | direção significativa e associações psicossociais, sem promessa causal |
+| evitação experiencial | Hayes et al. (1996) | leitura funcional de tentativas rígidas e custosas de evitar experiências |
+| contraponto sobre evitação | Hofmann e Hay (2018) | evitação também pode ser adaptativa conforme contexto |
+| incerteza e grupo | Hogg et al. (2007); Choi e Hogg (2019) | possibilidade condicional, com heterogeneidade e efeito não universal |
+
+### Modelos que permanecem autorais
+
+1. **Fuga identitária** como terceirização progressiva da autoria do eu.
+2. **Propósito próprio requer grau suficiente de autoria.**
+3. **Duas fugas, um ciclo:** desconforto → alívio → estratégia ou oferta externa → repetição → dependência → redução de autoria.
+4. **Apoio sustenta capacidade; substituição enfraquece capacidade para tornar-se indispensável.**
+
+Essas formulações não devem ser apresentadas como diagnósticos ou consensos científicos.
+
+### Casos compostos produzidos
+
+- Helena: utilidade, aprovação e propósito;
+- Caio: revisão honesta versus troca de personagem por plateia;
+- Lívia: ocupação protetiva, evitação e resposta identitária pronta.
+
+Todos receberam nome fictício e combinação de circunstâncias. Nenhum deriva de uma pessoa particular identificável.
+
+### Resultado editorial
+
+- 5.654 palavras de texto principal;
+- 6.305 palavras com notas e referências;
+- 12 referências;
+- 3 casos compostos;
+- 4 comandos de autoria;
+- FIG-02 produzida no sistema visual da obra;
+- DOCX e PDF 14 × 21 cm concluídos;
+- estado: **aguardando revisão de Sol**.

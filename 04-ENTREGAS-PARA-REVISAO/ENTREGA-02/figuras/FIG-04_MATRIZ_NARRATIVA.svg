@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1650" viewBox="0 0 1200 1650" role="img" aria-labelledby="title desc">
+<title id="title">Matriz NARRATIVA</title>
+<desc id="desc">Nove movimentos para transformar incômodo em perguntas.</desc>
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto" markerUnits="strokeWidth">
+<path d="M0,0 L10,6 L0,12 z" fill="#D84A3A"/>
+</marker>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#0B1020" flood-opacity=".10"/>
+</filter>
+</defs>
+<rect width="1200" height="1650" fill="#F4EFE6"/>
+<rect x="0" y="0" width="1200" height="36" fill="#D84A3A"/>
+<text x="90" y="118" font-family="Nimbus Sans Narrow" font-size="58" font-weight="700" fill="#0B1020">Matriz NARRATIVA</text>
+<text x="90" y="170" font-family="Nimbus Sans" font-size="26" fill="#5F7F83">Nove movimentos para transformar incômodo em perguntas.</text>
+<line x1="90" y1="205" x2="1110" y2="205" stroke="#5F7F83" stroke-width="3"/>
+<rect x="95" y="210" width="1010" height="128" rx="20" fill="#FFFFFF" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="226" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="292" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">N</text>
+<text x="270" y="264" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">NÚCLEO</text>
+<text x="270" y="311" font-family="Bitstream Charter" font-size="29" fill="#20242B">Qual tese sustenta o restante?</text>
+<rect x="95" y="345" width="1010" height="128" rx="20" fill="#F9F6F0" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="361" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="427" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">A</text>
+<text x="270" y="399" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">AUTORIDADE</text>
+<text x="270" y="446" font-family="Bitstream Charter" font-size="29" fill="#20242B">Por que confiar nesta voz?</text>
+<rect x="95" y="480" width="1010" height="128" rx="20" fill="#FFFFFF" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="496" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="562" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">R</text>
+<text x="270" y="534" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">RECORTE</text>
+<text x="270" y="581" font-family="Bitstream Charter" font-size="29" fill="#20242B">O que ficou de fora?</text>
+<rect x="95" y="615" width="1010" height="128" rx="20" fill="#F9F6F0" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="631" width="112" height="96" rx="18" fill="#D84A3A"/>
+<text x="171" y="697" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">R</text>
+<text x="270" y="669" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">RECLASSIFICAÇÃO</text>
+<text x="270" y="716" font-family="Bitstream Charter" font-size="29" fill="#20242B">Que fato mudou de nome?</text>
+<rect x="95" y="750" width="1010" height="128" rx="20" fill="#FFFFFF" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="766" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="832" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">A</text>
+<text x="270" y="804" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">AFETO E ATORES</text>
+<text x="270" y="851" font-family="Bitstream Charter" font-size="29" fill="#20242B">O que devo sentir e ser?</text>
+<rect x="95" y="885" width="1010" height="128" rx="20" fill="#F9F6F0" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="901" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="967" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">T</text>
+<text x="270" y="939" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">TESTABILIDADE</text>
+<text x="270" y="986" font-family="Bitstream Charter" font-size="29" fill="#20242B">O que poderia corrigir a tese?</text>
+<rect x="95" y="1020" width="1010" height="128" rx="20" fill="#FFFFFF" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="1036" width="112" height="96" rx="18" fill="#D84A3A"/>
+<text x="171" y="1102" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">I</text>
+<text x="270" y="1074" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">IMUNIZAÇÃO</text>
+<text x="270" y="1121" font-family="Bitstream Charter" font-size="29" fill="#20242B">Como a crítica vira confirmação?</text>
+<rect x="95" y="1155" width="1010" height="128" rx="20" fill="#F9F6F0" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="1171" width="112" height="96" rx="18" fill="#0B1020"/>
+<text x="171" y="1237" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">V</text>
+<text x="270" y="1209" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">VALORES</text>
+<text x="270" y="1256" font-family="Bitstream Charter" font-size="29" fill="#20242B">Qual valor vence com custo?</text>
+<rect x="95" y="1290" width="1010" height="128" rx="20" fill="#FFFFFF" stroke="#5F7F83" stroke-width="2"/>
+<rect x="115" y="1306" width="112" height="96" rx="18" fill="#D84A3A"/>
+<text x="171" y="1372" text-anchor="middle" font-family="Nimbus Sans" font-size="54" font-weight="700" fill="#FFFFFF">A</text>
+<text x="270" y="1344" font-family="Nimbus Sans" font-size="30" font-weight="700" fill="#0B1020">AÇÃO E AUTORIA</text>
+<text x="270" y="1391" font-family="Bitstream Charter" font-size="29" fill="#20242B">O que devo fazer e entregar?</text>
+<text x="600.0" y="1595" text-anchor="middle" font-family="Nimbus Sans" font-size="24" fill="#666B73">A matriz produz perguntas verificáveis; não diagnostica pessoas ou grupos.</text>
+</svg>
