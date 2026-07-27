@@ -1,0 +1,29 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporários
+*.tmp
+*.temp
+*.log
+~$*.docx
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Renderizações reproduzíveis
+rendered/
+rendered_*/
+contact_sheet.png
+*_a11y*.json
+
+# Credenciais
+.env
+.env.*
+*.pem
+*.key
+secrets/
