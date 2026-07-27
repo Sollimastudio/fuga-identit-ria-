@@ -7,6 +7,7 @@
 
 | Destino no repositório | Origem | Tamanho | SHA-256 | Função |
 |---|---|---:|---|---|
+| `CONTINUIDADE_NOVO_CHAT.md` | registro local de handoff | 15.030 B | `f44f26da9cc09faebc553a601cc30fc91d35f480cc0dfd8847276a67acf92d70` | Continuidade canônica, ponto de parada, pendências e comando para novo chat. |
 | `00-FONTES-BRUTAS/Texto_colado.txt` | `upload/Texto colado.txt` | 26.017 B | `3611562e9e1ef5e0b9842fa9dae6355e777f0c49411cffaa7c5c8982a563e972` | Texto-fonte bruto preservado. |
 | `01-MANUSCRITO/FUGA_IDENTITARIA_MANUSCRITO_MESTRE.md` | arquivo canônico local | 36.268 B | `43385485a13c4351e124bf8e1d3989216164a6feb68b21be96035e7d599dda69` | Manuscrito mestre. |
 | `02-PESQUISA-E-CONTROLE/FUGA_IDENTITARIA_CENTRAL_DE_PESQUISA.md` | arquivo canônico local | 112.893 B | `43c118aeaf7fa6e680078e6e0c66ae238c9161241e18e8581b1b7abb5ab7dd14` | Governança, pesquisa, lotes e decisões, incluindo o lote da Entrega 1. |
@@ -55,6 +56,7 @@
 - `STATUS_EDITORIAL.md`
 - `CHANGELOG.md`
 - `MANIFESTO_DE_ARQUIVOS.md`
+- `CONTINUIDADE_NOVO_CHAT.md`
 - `.gitignore`
 - `99-ARQUIVO-SENSIVEL-PRIVADO/README.md`
 
