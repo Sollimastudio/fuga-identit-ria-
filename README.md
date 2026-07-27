@@ -3,7 +3,7 @@
 ## A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  
-**Estado:** arquitetura canônica 2.0; produção modular iniciada  
+**Estado:** arquitetura canônica 2.0; Entrega 0 concluída e aguardando revisão  
 **Natureza:** ensaio autoral investigativo e de posicionamento  
 **Visibilidade exigida:** privada
 
@@ -77,9 +77,9 @@ Leia `GOVERNANCA_E_PRIVACIDADE.md` antes de trabalhar no projeto.
 
 ## Próxima execução
 
-**Entrega 0 — Nota da autora, nota conceitual e introdução integral.**
+**Revisar a Entrega 0 — Nota da autora, nota conceitual e introdução integral.**
 
-Depois da revisão de Sol, a produção seguirá para a Parte I.
+Depois da aprovação de Sol, a produção seguirá para a **Entrega 1 — Parte I, capítulos 1 a 3**.
 
 ---
 
