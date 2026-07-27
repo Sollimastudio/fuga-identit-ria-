@@ -2,6 +2,24 @@
 
 Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 
+## 2026-07-27 — Continuidade canônica entre chats
+
+### Adicionado
+
+- `CONTINUIDADE_NOVO_CHAT.md`;
+- estado exato das Entregas 0, 1 e 2;
+- lista de documentos obrigatórios para retomada;
+- decisões editoriais, técnicas, visuais e éticas que devem ser herdadas;
+- pendências de aprovação de Sol;
+- comando curto para o novo chat;
+- comando de execução imediata da Entrega 3.
+
+### Verificado
+
+- documento disponível na branch `main`;
+- continuidade independente do histórico desta conversa;
+- Entrega 2 permanece em revisão de Sol e não foi fundida ao manuscrito mestre.
+
 ## 2026-07-27 — Entrega 2 concluída tecnicamente
 
 ### Adicionado
