@@ -10,6 +10,7 @@ Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 - confirmação do encadeamento pedagógico entre identidade, narrativa, fornecedores, mecanismos, efeitos e reconstrução;
 - confirmação de que o índice contempla movimentos, feminismos, identidades LGBTQIA+, therians, grupos de alta exigência, política, relações, família, tecnologia e fuga cognitiva;
 - uniformização local da voz dirigida ao leitor, sem alteração da tese ou do posicionamento autoral;
+- recalibração da estimativa da Parte I para 28 a 36 páginas, com base na densidade real da prova de 14 × 21 cm;
 - atualização do comando de produção da Entrega 1 com escopo, limites, extensão, pesquisa, ilustração e critérios de entrega.
 
 ### Verificado

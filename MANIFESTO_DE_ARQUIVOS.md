@@ -16,7 +16,7 @@
 | `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/Fuga_Identitaria_Entrega_00_Abertura.docx` | entrega local | 3.058.211 B | `3bac26b79d6d3a7334b9bc7d53bf8cb012151bf2721f5ccd1f09af189d769eaf` | Versão editável e refluível revisada da Entrega 0. |
 | `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/Fuga_Identitaria_Entrega_00_Abertura.pdf` | entrega local | 624.352 B | `4f444c0c0e667d56e3b547495b091dd8dfbc11ef88905b4d62742bc9f926883f` | Prova paginada revisada da Entrega 0. |
 | `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/figuras/FIG-01_O_EU_CERCADO_POR_VOZES.png` | imagem editorial gerada | 3.071.033 B | `498593c58c75610880959d8c1d9246218b37a664d11ea7f09044bfe6dc5fc97f` | Primeira ilustração do sistema visual. |
-| `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/REGISTRO_EDITORIAL_ENTREGA_00.md` | registro local | 9.041 B | `431eeca1669ca60cbff6ab6ab90e061e34561b5fc3b4456811d99d89c06899f4` | Especificações, revisão final, decisões, QA e comando da Parte I. |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/REGISTRO_EDITORIAL_ENTREGA_00.md` | registro local | 9.156 B | `c876392ababa4a0eeb7ab96293d25345b0c88193b3c113eaa75eb37edfa4bb0e` | Especificações, revisão final, decisões, QA e comando da Parte I. |
 | `04-ENTREGAS-PARA-REVISAO/Fuga_Identitaria_Mapa_Mestre_Producao_2_0.docx` | entrega local | 33.202 B | `2dfc47374ae3133f20c6874a914d669fae8bb89cc07c94aadff0f924da741451` | Versão editável para revisão. |
 | `04-ENTREGAS-PARA-REVISAO/Fuga_Identitaria_Mapa_Mestre_Producao_2_0.pdf` | entrega local | 480.834 B | `c373544cb2c3f6ab07756ea247e58647e5756a64d03852c8afa79d2f03fb665a` | Cópia estável de revisão. |
 | `05-FERRAMENTAS/build_editorial_map.py` | script local | 9.710 B | `6e4449188e01df6398ab2f1cebd44fbe5d6aa57e89d34e542638fbec858b56ae` | Reprodução do DOCX editorial. |
