@@ -11,6 +11,14 @@
 
 Este repositório é a casa editorial canônica de *Fuga Identitária*, terceiro livro da trilogia **Relacione-se®**. Ele preserva manuscrito, pesquisa, fontes brutas, decisões, arquitetura, entregas para revisão e ferramentas de produção sem misturar versões nem apagar o histórico.
 
+## Continuidade entre chats
+
+Para continuar o projeto em outra conversa sem repetir contexto, abrir primeiro:
+
+`CONTINUIDADE_NOVO_CHAT.md`
+
+Esse arquivo registra o ponto exato da produção, as decisões herdadas, as pendências, os documentos obrigatórios e o comando de início da próxima entrega.
+
 ## Descrição do projeto
 
 Sistema editorial canônico de *Fuga Identitária*, de Sol Lima: manuscrito, pesquisa, fontes, arquitetura, revisões e entregas Kindle com preservação auditável.
