@@ -2,6 +2,25 @@
 
 Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 
+## 2026-07-26 — Revisão editorial final da Entrega 0
+
+### Revisado
+
+- releitura integral da abertura contra a arquitetura canônica 2.0;
+- confirmação do encadeamento pedagógico entre identidade, narrativa, fornecedores, mecanismos, efeitos e reconstrução;
+- confirmação de que o índice contempla movimentos, feminismos, identidades LGBTQIA+, therians, grupos de alta exigência, política, relações, família, tecnologia e fuga cognitiva;
+- uniformização local da voz dirigida ao leitor, sem alteração da tese ou do posicionamento autoral;
+- atualização do comando de produção da Entrega 1 com escopo, limites, extensão, pesquisa, ilustração e critérios de entrega.
+
+### Verificado
+
+- DOCX e PDF novamente gerados;
+- 24 páginas novamente inspecionadas;
+- ausência de cortes, sobreposições, páginas acidentais e marcadores internos;
+- uma imagem incorporada com texto alternativo;
+- auditoria de acessibilidade com zero ocorrências;
+- Entrega 0 liberada como base canônica da Parte I.
+
 ## 2026-07-26 — Entrega 0 concluída
 
 ### Adicionado
@@ -30,7 +49,7 @@ Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 - narrativa e lógica abrem a progressão pedagógica;
 - autoria é o critério central que separa pertencimento de diluição;
 - alinhamento à esquerda será mantido nas provas enquanto não houver hifenização portuguesa confiável;
-- a Parte I somente será iniciada após a revisão de Sol sobre a abertura.
+- a Parte I será iniciada após a revisão editorial final da abertura.
 
 ## 2026-07-26 — Constituição inicial do repositório
 

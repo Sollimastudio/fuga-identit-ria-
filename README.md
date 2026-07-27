@@ -3,7 +3,7 @@
 ## A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  
-**Estado:** arquitetura canônica 2.0; Entrega 0 concluída e aguardando revisão  
+**Estado:** arquitetura canônica 2.0; Entrega 0 concluída e revisada; Entrega 1 pronta para produção  
 **Natureza:** ensaio autoral investigativo e de posicionamento  
 **Visibilidade exigida:** privada
 
@@ -77,9 +77,9 @@ Leia `GOVERNANCA_E_PRIVACIDADE.md` antes de trabalhar no projeto.
 
 ## Próxima execução
 
-**Revisar a Entrega 0 — Nota da autora, nota conceitual e introdução integral.**
+**Produzir a Entrega 1 — Parte I inteira: “Antes do propósito, existe um eu”, capítulos 1 a 3.**
 
-Depois da aprovação de Sol, a produção seguirá para a **Entrega 1 — Parte I, capítulos 1 a 3**.
+O comando consolidado de produção está em `04-ENTREGAS-PARA-REVISAO/ENTREGA-00/REGISTRO_EDITORIAL_ENTREGA_00.md`.
 
 ---
 

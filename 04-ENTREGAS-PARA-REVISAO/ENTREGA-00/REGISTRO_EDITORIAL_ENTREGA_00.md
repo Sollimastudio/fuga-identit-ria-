@@ -3,7 +3,7 @@
 **Livro:** *Fuga Identitária: A Anatomia da Diluição do Eu*  
 **Autora:** Sol Lima  
 **Data:** 26 de julho de 2026  
-**Estado:** concluída e aguardando revisão autoral
+**Estado:** concluída, revisada e pronta para o avanço à Parte I
 
 ## Escopo entregue
 
@@ -19,8 +19,8 @@ Esta entrega corresponde à **abertura do livro**, denominada Entrega 0. A Parte
 
 ## Dimensão editorial
 
-- **Texto-fonte:** 4.024 palavras, incluindo o índice integral;
-- **miolo autoral a partir da Nota da autora:** 3.525 palavras;
+- **Texto-fonte:** 4.030 palavras, incluindo o índice integral;
+- **miolo autoral a partir da Nota da autora:** 3.531 palavras;
 - **PDF de revisão:** 24 páginas;
 - **densidade típica das páginas de prosa:** cerca de 180 a 210 palavras;
 - **faixa observada nas páginas de leitura:** 120 a 237 palavras, com redução intencional em aberturas, respiros e páginas ilustradas.
@@ -79,15 +79,31 @@ O alinhamento à esquerda foi adotado nesta prova para impedir rios tipográfico
 - nenhum marcador de rascunho, placeholder ou referência interna exposto;
 - DOCX e PDF abrem e renderizam integralmente.
 
-## Pontos para a revisão de Sol
+## Revisão editorial final
 
-1. A voz da Nota da autora representa com precisão seu posicionamento?
-2. A nota conceitual protege o livro sem reduzir sua firmeza?
-3. A introdução provoca exame e mantém o leitor sem antecipar excessivamente os capítulos?
-4. O índice contém todos os campos que precisam ser investigados?
-5. A ponte com *Reposicione-se™* deve permanecer com marca registrada no corpo do texto?
-6. A linguagem visual representa o tom comercial, intelectual e humano desejado?
+A abertura foi relida integralmente contra a arquitetura canônica 2.0 e contra os objetivos declarados pela autora. A revisão confirmou:
+
+1. a Nota da autora estabelece posicionamento sem fingir neutralidade;
+2. a Nota conceitual impede que “fuga identitária” seja lida como diagnóstico ou como condenação automática de mudança e pertencimento;
+3. a introdução apresenta a tese, o público, a promessa, os limites éticos e o método sem esgotar os capítulos;
+4. o índice contempla movimentos, feminismos, identidades LGBTQIA+, therians, grupos de alta exigência, idolatria política, relacionamentos, família, tecnologia, fuga cognitiva, adoecimento e reconstrução;
+5. a pedagogia está na ordem correta: definir o eu e a fuga; ensinar narrativa, crenças, lógica e eixo; examinar fornecedores; mostrar mecanismos e efeitos; recuperar autoria;
+6. narrativa permanece no início do método, mas depois da definição mínima de identidade e fuga, evitando que o leitor aplique o conceito indiscriminadamente;
+7. a voz direta ao leitor foi uniformizada em nove pontos locais, sem alteração da tese, da estrutura ou do tom;
+8. a Entrega 0 não contém diagnóstico de pessoas, inferência por aparência nem identificação de relatos familiares.
+
+O resultado foi novamente renderizado e as 24 páginas foram reinspecionadas. A abertura está editorial e tecnicamente pronta para servir de base à Entrega 1.
 
 ## Comando da próxima execução
 
-> Desenvolva agora a Entrega 1 — Parte I inteira de *Fuga Identitária: A Anatomia da Diluição do Eu*, com os capítulos 1 a 3 completos, seguindo rigorosamente a arquitetura canônica, a voz e o sistema visual aprovados na Entrega 0. Mantenha a distinção entre pessoa, ideia, comportamento e sistema; inclua os comandos metacognitivos planejados, estudos de caso compostos e ferramentas práticas; não resuma nem omita os assuntos atribuídos a essa parte. Entregue o texto-fonte, DOCX refluível, PDF paginado, ilustrações, registro editorial e atualização do repositório GitHub.
+> Desenvolva agora a **Entrega 1 — Parte I inteira: “Antes do propósito, existe um eu”**, de *Fuga Identitária: A Anatomia da Diluição do Eu*, de Sol Lima. Antes de escrever, releia a Entrega 0, o Mapa Mestre de Produção 2.0, a Central de Pesquisa e Controle Editorial e este Registro Editorial; trate esses arquivos como fonte canônica e preserve integralmente a voz, a tese, os limites éticos e o sistema visual já aprovados.
+>
+> Escreva a abertura da Parte I e os três capítulos completos: **1. “A pergunta debaixo da pergunta”**, **2. “Buscar-se não é fugir de si”** e **3. “Duas fugas, o mesmo vazio”**. A missão pedagógica desta parte é formar o critério conceitual que impedirá o leitor de chamar toda dúvida, influência, mudança ou pertença de fuga identitária. Mostre que autoria precede propósito; diferencie exploração saudável, mudança, ambivalência, influência, pertencimento, adoção e desaparecimento de si; e explique o ciclo que une fuga cognitiva e fuga identitária: desconforto → alívio → oferta externa → adoção → propósito emprestado.
+>
+> Distribua organicamente os comandos **PARE.**, **RECUPERE A PERGUNTA.**, **SEPARE BUSCA DE FUGA.** e **IDENTIFIQUE A FUGA.** Inclua estudos de caso compostos e não identificáveis, perguntas de metacognição, contrapontos honestos, transições internas e uma conclusão que prepare a Parte II. Use a distinção entre pessoa, ideia, comportamento e sistema. Não diagnostique pessoas, não infira caráter por aparência, não identifique familiares nem denominações religiosas e não antecipe a análise aprofundada de movimentos, seitas, política, identidades ou plataformas, reservada às partes seguintes.
+>
+> Produza **5.500 a 6.500 palavras de texto autoral**, sem contar referências, com densidade suficiente para aproximadamente **15 a 22 páginas de miolo** como estimativa editorial; a contagem de palavras é o critério principal. Não entregue plano, amostra ou resumo: execute a Parte I integral. Pesquise e confira afirmações psicológicas, sociológicas ou tecnológicas em fontes primárias e institucionais atuais; diferencie evidência, inferência e hipótese autoral; não declare causalidade além do que as fontes sustentam; inclua referências completas e links verificáveis.
+>
+> Planeje e produza a **FIG-02 — “Duas fugas, o mesmo ciclo de alívio e terceirização”**, coerente com a linguagem visual da Entrega 0: anatomia topográfica do eu, azul-marinho `#0B1020`, marfim `#F4EFE6`, vermelho-vermillion `#D84A3A` e azul-petróleo `#5F7F83`. A imagem deve ter função narrativa, não apenas decorativa, e precisa de legenda e texto alternativo.
+>
+> Ao concluir, entregue: texto-fonte em Markdown; DOCX editável e refluível; PDF de revisão em 14 × 21 cm, paginado e visualmente verificado página por página; FIG-02 em alta resolução; Registro Editorial da Entrega 1 com contagem, decisões, fontes, pendências e QA; atualização do status, manifesto e changelog; e salvamento de tudo no repositório privado `Sollimastudio/fuga-identit-ria-`. Preserve a Entrega 0. Depois, informe o total real de palavras e páginas e forneça o comando completo para a Entrega 2 — Parte II.

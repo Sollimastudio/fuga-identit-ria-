@@ -2,14 +2,14 @@
 
 **Atualização:** 26 de julho de 2026  
 **Arquitetura:** versão 2.0 canônica  
-**Estado geral:** Entrega 0 concluída; aguardando revisão de Sol
+**Estado geral:** Entrega 0 concluída e revisada; Entrega 1 pronta para produção
 
 ## Entregas
 
 | Entrega | Conteúdo | Estado |
 |---|---|---|
-| 0 | Nota da autora, nota conceitual e introdução | **Concluída — aguardando revisão** |
-| 1 | Parte I — capítulos 1 a 3 | Próxima após aprovação |
+| 0 | Nota da autora, nota conceitual e introdução | **Concluída e revisada** |
+| 1 | Parte I — capítulos 1 a 3 | **Próxima entrega** |
 | 2 | Parte II — capítulos 4 a 7 | Planejada |
 | 3 | Parte III — capítulos 8 a 12 | Planejada |
 | 4 | Parte IV — capítulos 13 a 17 | Planejada |
@@ -36,4 +36,4 @@
 
 ## Próximo marco
 
-Receber a revisão de Sol sobre a Entrega 0, registrar os ajustes aprovados e, em seguida, produzir a Entrega 1 — Parte I, capítulos 1 a 3.
+Produzir a Entrega 1 — Parte I inteira, capítulos 1 a 3, seguindo o comando consolidado no Registro Editorial da Entrega 0.

@@ -146,7 +146,7 @@ Não existe um eu puro, formado no isolamento e intocado pelo mundo. Pensamos co
 
 A questão é saber se, em meio às influências, ainda existe autoria.
 
-Autoria não significa inventar a si mesmo do nada. Significa poder examinar o que recebeu, conservar o que reconhece como verdadeiro, recusar o que o diminui, revisar o que deixou de fazer sentido e responder pelas consequências do que escolhe. Uma pessoa autora não é uma pessoa que nunca muda. É alguém que não precisa desaparecer para mudar.
+Autoria não significa inventar a si mesmo do nada. Significa poder examinar o que recebeu, conservar o que reconhece como verdadeiro, recusar o que produz apagamento, revisar o que deixou de fazer sentido e responder pelas consequências do que escolhe. Uma pessoa autora não é uma pessoa que nunca muda. É alguém que não precisa desaparecer para mudar.
 
 Há pessoas que defendem uma opinião com firmeza, mas não se lembram de como chegaram a ela. Pessoas que repetem frases sobre liberdade enquanto vivem governadas pelo medo de desagradar. Pessoas capazes de explicar em detalhes o que seu grupo acredita, mas incapazes de dizer o que continuariam acreditando se aquele grupo deixasse de existir. Pessoas que aprenderam a nomear cada parte de si e, paradoxalmente, sentem-se cada vez menos inteiras.
 
@@ -184,11 +184,11 @@ O problema não é ser influenciado.
 
 O problema começa quando a influência deixa de ampliar a consciência e passa a substituir a autoria.
 
-No pertencimento saudável, você pode entrar inteiro. O vínculo acrescenta linguagem, experiência, correção, afeto e perspectiva, mas não exige que você entregue o direito de examinar. Você pode concordar sem se fundir. Pode discordar sem deixar de existir. Pode mudar de ideia sem perder toda a estrutura interna. Pode sair e sofrer a perda do vínculo sem perder junto a própria identidade.
+No pertencimento saudável, você pode entrar por inteiro. O vínculo acrescenta linguagem, experiência, correção, afeto e perspectiva, mas não exige que você entregue o direito de examinar. Você pode concordar sem se fundir. Pode discordar sem deixar de existir. Pode mudar de ideia sem perder toda a estrutura interna. Pode sair e sofrer a perda do vínculo sem perder junto a própria identidade.
 
 Na fuga identitária, o processo é diferente.
 
-Uma fonte externa — um grupo, um relacionamento, uma liderança, uma causa, uma comunidade, uma audiência ou um sistema de recomendação — encontra uma região sem nome: uma dúvida, uma dor, uma solidão, uma injustiça, um ressentimento ou uma necessidade de reconhecimento. Então oferece um pacote coerente. Explica quem você é, quem o feriu, quem deve temer, qual linguagem usar, o que pensar, a quem admirar, contra quem lutar e por que sua existência importa.
+Uma fonte externa — um grupo, um relacionamento, uma liderança, uma causa, uma comunidade, uma audiência ou um sistema de recomendação — encontra uma região sem nome: uma dúvida, uma dor, uma solidão, uma injustiça, um ressentimento ou uma necessidade de reconhecimento. Então oferece um pacote coerente. Explica quem você é, quem feriu você, quem você deve temer, qual linguagem usar, o que pensar, a quem admirar, contra quem lutar e por que sua existência importa.
 
 O alívio pode ser imediato.
 
@@ -208,7 +208,7 @@ Talvez sua resposta seja clara. Talvez você reconheça valores, vínculos e con
 
 Hoje, ele não permanece vazio por muito tempo.
 
-O algoritmo não precisa saber quem você é; basta aprender o que interrompe o movimento do seu dedo. O influenciador não precisa conhecer sua história inteira; basta nomear uma dor que faça você se sentir visto. O grupo não precisa acolher tudo o que você é; basta oferecer pertencimento à parte de você que confirma sua narrativa.
+O algoritmo não precisa saber quem você é; basta aprender o que interrompe o movimento do seu dedo. O influenciador não precisa conhecer sua história inteira; basta nomear uma dor e produzir a sensação de reconhecimento. O grupo não precisa acolher tudo o que você é; basta oferecer pertencimento à parte de você que confirma sua narrativa.
 
 E assim começa uma troca quase imperceptível: você entrega atenção e recebe linguagem; entrega dúvida e recebe certeza; entrega complexidade e recebe uma categoria; entrega solidão e recebe uma tribo; entrega autoria e recebe um personagem pronto para habitar.
 
@@ -246,11 +246,11 @@ Um eu emprestado também pode ter uma missão. Pode trabalhar com intensidade, d
 
 > **Ninguém encontra um propósito verdadeiramente próprio enquanto procura com um eu emprestado.**
 
-Talvez você tenha chegado até aqui esperando que este livro lhe ajude a descobrir quem é. Preciso ser honesta: não tenho o direito de lhe dar essa resposta.
+Talvez você tenha chegado até aqui esperando que este livro ajude você a descobrir quem você é. Preciso ser honesta: não tenho o direito de lhe dar essa resposta.
 
 E desconfie de quem afirma ter.
 
-O que posso fazer é ajudá-lo a perceber quem vem respondendo por você.
+O que posso fazer é ajudar você a perceber quem vem respondendo por você.
 
 Investigaremos as vozes que chegaram antes da sua, os papéis que garantiram amor ou proteção, as ideias que se tornaram familiares pela repetição, os grupos que ofereceram nome, os líderes que transformaram dor em lealdade, os rótulos que primeiro acolheram e depois começaram a limitar, os personagens construídos para ser vistos e os propósitos aceitos para não enfrentar o vazio de ainda não saber.
 
@@ -262,9 +262,9 @@ Eixo não significa ficar sempre no meio. Há situações em que um lado agride 
 
 Sem eixo, a pessoa não se posiciona: oscila. E quem oscila entre extremos continua sendo governado de fora — apenas muda de lado.
 
-Não faremos essa travessia para arrancá-lo de todo vínculo.
+Não faremos essa travessia para arrancar você de todo vínculo.
 
-Este livro não é contra família, fé, comunidade, tecnologia, movimentos, causas, identidade ou pertencimento. É contra a abdicação silenciosa da autoria. Uma fé que não permite pergunta pode exigir submissão, não convicção. Um movimento que não tolera dúvida pode desejar obediência, não consciência. Um relacionamento que só preserva o vínculo quando você desaparece não preserva amor; preserva uma função. Uma tecnologia que o mantém reagindo sem parar pode conhecer seus padrões sem jamais conhecer sua humanidade.
+Este livro não é contra família, fé, comunidade, tecnologia, movimentos, causas, identidade ou pertencimento. É contra a abdicação silenciosa da autoria. Uma fé que não permite pergunta pode exigir submissão, não convicção. Um movimento que não tolera dúvida pode desejar obediência, não consciência. Um relacionamento que só preserva o vínculo quando você desaparece não preserva amor; preserva uma função. Uma tecnologia que mantém você reagindo sem parar pode conhecer seus padrões sem jamais conhecer sua humanidade.
 
 Não lhe peço concordância antecipada. Peço exame.
 
@@ -294,7 +294,7 @@ E o que acontece com os outros quando uso “ser eu mesmo” como autorização 
 
 Este livro não vai dizer quem você é.
 
-Vai ajudá-lo a perceber quem vem respondendo por você.
+Vai ajudar você a perceber quem vem respondendo por você.
 
 Não leia as próximas páginas como cobrança para que apresente imediatamente uma identidade sólida. Quem passou muito tempo adaptando-se pode precisar, antes de tudo, reaprender a tolerar o espaço entre a resposta antiga e a resposta própria. Não há vergonha em ainda não saber. O perigo não está na dúvida. Está em permitir que qualquer voz interessada ocupe depressa demais o lugar que a dúvida abriu.
 
@@ -307,4 +307,3 @@ Espero que tenha algo mais valioso: condições para não aceitar qualquer defin
 > Antes de perguntar o que nasceu para fazer, pergunte: **quem tem vivido em seu nome?**
 
 É aqui que começamos.
-
