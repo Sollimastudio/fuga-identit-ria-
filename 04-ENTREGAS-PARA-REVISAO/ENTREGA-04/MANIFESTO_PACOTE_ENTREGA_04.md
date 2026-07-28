@@ -1,0 +1,24 @@
+# MANIFESTO DO PACOTE — ENTREGA 4
+
+**Autora:** Sol Lima  
+**Estado:** aguardando revisão de Sol  
+**Manuscrito mestre:** não alterado
+
+| Arquivo | Tamanho | SHA-256 |
+|---|---:|---|
+| `FUGA_IDENTITARIA_ENTREGA_04_TEXTO.md` | 73,462 B | `7b19c0dcd712d1f58bc0fc7a41dbb2fe4ff71f445cc57bf3d62a016d8b0cd1b8` |
+| `Fuga_Identitaria_Entrega_04_Parte_IV.docx` | 523,154 B | `1d95597a3f959b62363d8bbc9c3261d49bb49294422f5181f7dba4d252d97288` |
+| `Fuga_Identitaria_Entrega_04_Parte_IV.pdf` | 609,571 B | `bfa08454364e92ab0bd4942a8dca25953345d2201d03773b660be9b54cbd6286` |
+| `REGISTRO_EDITORIAL_ENTREGA_04.md` | 9,583 B | `1d6e29b615f8aff4d3fb6c8155191b35db93c6dc3b02de8eb3413de6773cd065` |
+| `REGISTRO_PESQUISA_ENTREGA_04.md` | 10,642 B | `352de3b0d13b959081c3f1397ed97ec0764cc436d56b09952e003c2201d43eb7` |
+| `PROMPT_PROXIMA_ENTREGA_05.md` | 20,598 B | `567c7dbe609f1e67d414421636aebff4313c3d0332a3559911d12c65d445e9b6` |
+| `build_entrega_04.py` | 14,166 B | `d5ff0817f0f1e8c97c508695b4cd3ca663958bfc581bb32e1dadc8d8fe7ebef9` |
+| `make_figures.py` | 8,156 B | `c3baa5a74b07eea7fbb28d5828b98b242b42ac52a5c1a7a41bcd15baf082b299` |
+| `figuras/FIG-11_DA_EXPOSICAO_A_DEPENDENCIA.png` | 146,267 B | `b152e5032a848aaa0f89c607b35983be1bff8d37f2418b416e2cdc924c1913fe` |
+| `figuras/FIG-11_DA_EXPOSICAO_A_DEPENDENCIA.svg` | 4,307 B | `697479ab2b7624c86867614999f64db3c774d2a340414382d9eeef121f74ed40` |
+| `figuras/FIG-12_FAMILIARIDADE_NAO_E_VERDADE.png` | 99,507 B | `3448aac66047e04cb1cc00600f357afab1d11b8072999d38856ad5dc9a60557b` |
+| `figuras/FIG-12_FAMILIARIDADE_NAO_E_VERDADE.svg` | 3,493 B | `4f275abf3d0fd643a52ba1d4e44c8fc439df0a018db61cc3fbeba6cb8381ce8f` |
+| `figuras/FIG-13_COMO_A_REDOMA_SE_IMUNIZA.png` | 148,137 B | `5c7091e063327a42c80aea824a632245603ee472cab2e6a8ac25768d3f767b8f` |
+| `figuras/FIG-13_COMO_A_REDOMA_SE_IMUNIZA.svg` | 3,400 B | `89d8e373f1bd140dbe5482f23b2b210629a5d3cf3d1dcc329f38b4a8ee93d0bc` |
+| `figuras/FIG-14_O_CUSTO_DE_SAIR.png` | 107,683 B | `c3872e784bab1907813ac389d86be3894963a4b2b8afd3cd3cf1cdc892b2a3e4` |
+| `figuras/FIG-14_O_CUSTO_DE_SAIR.svg` | 2,703 B | `85581b56048d3cc0554593e4673ccde6c2dae456a7c7ad01cf8a91d9e8ca3aba` |
