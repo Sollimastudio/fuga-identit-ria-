@@ -30,7 +30,7 @@ jobs:
             python -m pip install python-docx cairosvg pillow
             rm -rf /tmp/entrega03-source
             mkdir -p /tmp/entrega03-source 04-ENTREGAS-PARA-REVISAO/ENTREGA-03
-            cat .entrega03-source.part-* | base64 -d > /tmp/entrega03-source.tar.gz
+            cat .entrega03-source.part-00 .entrega03-source.part-01 .entrega03-source.part-02 .entrega03-source.part-03a .entrega03-source.part-03b .entrega03-source.part-03c .entrega03-source.part-03d .entrega03-source.part-04 | base64 -d > /tmp/entrega03-source.tar.gz
             sha256sum /tmp/entrega03-source.tar.gz
             tar -tzf /tmp/entrega03-source.tar.gz
             tar -xzf /tmp/entrega03-source.tar.gz -C /tmp/entrega03-source
