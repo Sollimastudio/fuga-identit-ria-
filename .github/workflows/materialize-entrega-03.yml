@@ -1,4 +1,4 @@
-name: Diagnosticar e gerar Entrega 03
+name: Diagnosticar Entrega 03
 
 on:
   pull_request:
@@ -6,10 +6,10 @@ on:
     types: [synchronize, reopened]
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  build:
+  diagnose:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -17,42 +17,45 @@ jobs:
           ref: entrega-03-operacional
           fetch-depth: 0
 
-      - name: Preparar ambiente editorial
+      - name: Executar diagnóstico completo
+        id: diagnose
+        shell: bash
         run: |
-          sudo apt-get update
-          sudo apt-get install -y libreoffice-writer libreoffice-core poppler-utils fonts-urw-base35 fonts-noto-core fonts-dejavu-core python3-pip libcairo2 libpango-1.0-0 libpangocairo-1.0-0
-          python -m pip install --upgrade pip
-          python -m pip install python-docx cairosvg pillow
-
-      - name: Gerar ou registrar diagnóstico
-        run: |
-          rm -rf /tmp/entrega03-source
-          mkdir -p /tmp/entrega03-source 04-ENTREGAS-PARA-REVISAO/ENTREGA-03
-          cat .entrega03-source.part-* | base64 -d > /tmp/entrega03-source.tar.gz
-          tar -xzf /tmp/entrega03-source.tar.gz -C /tmp/entrega03-source
-          cp -a /tmp/entrega03-source/ENTREGA-03/. 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/
-          cp /tmp/entrega03-source/FERRAMENTAS/build_entrega_03.py 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/build_entrega_03.py
           set +e
-          (cd 04-ENTREGAS-PARA-REVISAO/ENTREGA-03 && python build_entrega_03.py) > ENTREGA03_BUILD_LOG.txt 2>&1
-          code=$?
-          set -e
           {
-            echo "exit_code=$code"
-            echo "python=$(python --version 2>&1)"
-            echo "soffice=$(command -v soffice || true)"
-            echo "pdfinfo=$(command -v pdfinfo || true)"
-            echo "--- build log ---"
-            cat ENTREGA03_BUILD_LOG.txt
-            echo "--- arquivos ---"
-            find 04-ENTREGAS-PARA-REVISAO/ENTREGA-03 -maxdepth 2 -type f -printf '%p %s bytes\n' | sort
-            if [ -s 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/Fuga_Identitaria_Entrega_03_Parte_III.pdf ]; then
-              echo "--- pdfinfo ---"
-              pdfinfo 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/Fuga_Identitaria_Entrega_03_Parte_III.pdf || true
-            fi
-          } > ENTREGA03_DIAGNOSTICO.txt
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -f
-          git commit -m 'chore: registra diagnóstico e geração da Entrega 03'
-          git push origin HEAD:entrega-03-operacional
+            set -euxo pipefail
+            sudo apt-get update
+            sudo apt-get install -y libreoffice-writer libreoffice-core poppler-utils fonts-urw-base35 fonts-noto-core fonts-dejavu-core python3-pip libcairo2 libpango-1.0-0 libpangocairo-1.0-0
+            python -m pip install --upgrade pip
+            python -m pip install python-docx cairosvg pillow
+            rm -rf /tmp/entrega03-source
+            mkdir -p /tmp/entrega03-source 04-ENTREGAS-PARA-REVISAO/ENTREGA-03
+            cat .entrega03-source.part-* | base64 -d > /tmp/entrega03-source.tar.gz
+            sha256sum /tmp/entrega03-source.tar.gz
+            tar -tzf /tmp/entrega03-source.tar.gz
+            tar -xzf /tmp/entrega03-source.tar.gz -C /tmp/entrega03-source
+            cp -a /tmp/entrega03-source/ENTREGA-03/. 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/
+            cp /tmp/entrega03-source/FERRAMENTAS/build_entrega_03.py 04-ENTREGAS-PARA-REVISAO/ENTREGA-03/build_entrega_03.py
+            cd 04-ENTREGAS-PARA-REVISAO/ENTREGA-03
+            python build_entrega_03.py
+            ls -lah . figuras
+            pdfinfo Fuga_Identitaria_Entrega_03_Parte_III.pdf
+            pdftotext Fuga_Identitaria_Entrega_03_Parte_III.pdf /tmp/entrega03-text.txt
+            grep -n 'Capítulo 12' /tmp/entrega03-text.txt
+            grep -n 'Notas de pesquisa da Entrega 3' /tmp/entrega03-text.txt
+          } > ENTREGA03_DIAGNOSTICO.txt 2>&1
+          code=$?
+          echo "exit_code=$code" >> ENTREGA03_DIAGNOSTICO.txt
+          cat ENTREGA03_DIAGNOSTICO.txt
           exit "$code"
+
+      - name: Publicar diagnóstico
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: entrega03-diagnostico
+          path: |
+            ENTREGA03_DIAGNOSTICO.txt
+            04-ENTREGAS-PARA-REVISAO/ENTREGA-03/
+          if-no-files-found: warn
+          retention-days: 1
