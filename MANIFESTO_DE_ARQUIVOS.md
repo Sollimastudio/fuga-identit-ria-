@@ -82,3 +82,27 @@ Se houver dúvida sobre perda ou alteração:
 3. comparar o resultado com a tabela;
 4. não substituir o arquivo silenciosamente;
 5. registrar a nova versão no `CHANGELOG.md`.
+
+<!-- MANIFESTO-ENTREGA-03-2026-07-27 -->
+## Arquivos materiais da Entrega 3
+
+| Destino | Função |
+|---|---|
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/FUGA_IDENTITARIA_ENTREGA_03_TEXTO.md` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/Fuga_Identitaria_Entrega_03_Parte_III.docx` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/Fuga_Identitaria_Entrega_03_Parte_III.pdf` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/REGISTRO_EDITORIAL_ENTREGA_03.md` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/PROMPT_PROXIMA_ENTREGA_04.md` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-07_DE_ONDE_CHEGAM_OS_MAPAS_DO_EU.svg` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-07_DE_ONDE_CHEGAM_OS_MAPAS_DO_EU.png` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-08_O_CICLO_DA_RECOMENDACAO.svg` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-08_O_CICLO_DA_RECOMENDACAO.png` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-09_EU_VIVIDO_E_EU_EXIBIDO.svg` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-09_EU_VIVIDO_E_EU_EXIBIDO.png` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-10_QUANDO_A_CAUSA_COMECA_A_USAR_A_PESSOA.svg` | Entrega 3 — aguardando revisão de Sol |
+| `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/figuras/FIG-10_QUANDO_A_CAUSA_COMECA_A_USAR_A_PESSOA.png` | Entrega 3 — aguardando revisão de Sol |
+| `02-PESQUISA-E-CONTROLE/REGISTRO_PESQUISA_ENTREGA_03.md` | Entrega 3 — aguardando revisão de Sol |
+| `05-FERRAMENTAS/build_entrega_03.py` | Entrega 3 — aguardando revisão de Sol |
+| `manuscrito/entregas/entrega-03/` | Entrega 3 — aguardando revisão de Sol |
+| `repo_package/04-ENTREGAS-PARA-REVISAO/ENTREGA-03/` | Entrega 3 — aguardando revisão de Sol |
+| `repo_package/05-FERRAMENTAS/build_entrega_03.py` | Entrega 3 — aguardando revisão de Sol |

@@ -435,3 +435,11 @@ O novo chat deve:
 
 > **Entregas 0, 1 e 2 estão preservadas no repositório. A Entrega 2 está completa tecnicamente e aguarda revisão de Sol. A próxima produção é a Entrega 3 — Parte III: “Os fornecedores do eu”, iniciando na página editorial 114.**
 
+<!-- CONTINUIDADE-ENTREGA-03-2026-07-27 -->
+# Atualização de continuidade — Entrega 3 concluída
+
+**Ponto exato:** a Parte III — *Os fornecedores do eu* — está tecnicamente completa em `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/`, com capítulos 8 a 12, figuras, DOCX, PDF, registro editorial e pesquisa. Aguarda revisão de Sol. Não foi aprovada nem fundida ao manuscrito mestre.
+
+**Próximo escopo:** Entrega 4 — Parte IV — *A anatomia da ocupação*, capítulos 13 a 17, iniciando na página editorial 173. O comando operacional está em `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/PROMPT_PROXIMA_ENTREGA_04.md`.
+
+**Gatilho:** `Comece a Entrega 4.`

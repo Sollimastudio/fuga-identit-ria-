@@ -171,3 +171,16 @@ Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 - DOCX refluível como fonte do Kindle Create;
 - PDF como cópia de revisão;
 - material familiar preservado, mas proibido para uso automático.
+
+<!-- CHANGELOG-ENTREGA-03-2026-07-27 -->
+## 2026-07-27 — Entrega 3
+
+- escrita integral da Parte III — *Os fornecedores do eu*;
+- capítulos 8 a 12 fechados com casos compostos e contracasos;
+- 9.885 palavras de texto principal;
+- FIG-07 a FIG-10 em SVG e PNG;
+- DOCX refluível e PDF 14 × 21 cm;
+- registro editorial e registro de pesquisa;
+- prompt operacional da Entrega 4;
+- cópias em `manuscrito/entregas/entrega-03/` e `repo_package/`;
+- nenhuma fusão ao manuscrito mestre.

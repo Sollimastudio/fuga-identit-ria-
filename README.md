@@ -92,3 +92,10 @@ Após a revisão de Sol, o próximo comando curto é **“Comece a Entrega 3.”
 ---
 
 © 2026 Sol Lima. Todos os direitos reservados. Este repositório não possui licença de reutilização pública.
+
+<!-- ENTREGA-03-2026-07-27 -->
+## Entrega 3 — Parte III concluída para revisão
+
+A Parte III — **Os fornecedores do eu** — foi produzida integralmente com os capítulos 8 a 12, 9.885 palavras de texto principal, quatro figuras funcionais, DOCX e PDF de revisão. O conteúdo está em `04-ENTREGAS-PARA-REVISAO/ENTREGA-03/`.
+
+**Estado:** Escrita integral → Auditoria factual → Revisão editorial → **Revisão de Sol**. Não aprovada e não fundida ao manuscrito mestre.
