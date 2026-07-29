@@ -170,7 +170,18 @@ Não foi criado conceito novo para cada exemplo. O sistema continua sendo uma te
 
 ---
 
-## 7. MÉTRICAS
+## 7. ARQUIVOS DA ENTREGA
+
+- `CAPITULO_04_CAMADA_02.md`: capítulo 4 integral já revisado;
+- `PATCH_CAPITULO_05_DESMONTE_A_NARRATIVA.md`: substituições exatas do capítulo 5;
+- `PATCH_CAPITULO_07_LOGICA_E_EIXO.md`: substituições exatas do capítulo 7;
+- este registro editorial.
+
+O manuscrito integral de trabalho foi materializado e validado fora da `main`, com as substituições aplicadas de forma determinística. Sua fusão canônica ocorrerá somente após a centralização definitiva da fonte integral e a revisão das camadas seguintes.
+
+---
+
+## 8. MÉTRICAS
 
 - Parte II revisada: aproximadamente **11.015 palavras**;
 - acréscimo líquido no manuscrito de trabalho: aproximadamente **1.356 palavras**;
@@ -181,7 +192,7 @@ O acréscimo líquido será compensado na camada de compressão global, depois q
 
 ---
 
-## 8. VALIDAÇÕES
+## 9. VALIDAÇÕES
 
 Confirmado no texto revisado:
 
@@ -201,8 +212,8 @@ Confirmado no texto revisado:
 
 ---
 
-## 9. REGRA DE CONTINUIDADE
+## 10. REGRA DE CONTINUIDADE
 
-A Parte II deste arquivo é a entrega revisada da Camada 2. Ela ainda não deve ser fundida à `main` como aprovação final da autora.
+Os arquivos desta pasta constituem a entrega auditável da Camada 2. Eles ainda não devem ser fundidos à `main` como aprovação final da autora.
 
 A próxima camada poderá revisar capítulo por capítulo usando estas definições como canônicas, sem reabri-las ou criar ferramentas concorrentes.
