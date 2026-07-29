@@ -1,0 +1,18 @@
+[
+  {"type":"replace_top","target":"PARTE I","before":122,"after":59,"delta":-63},
+  {"type":"replace_top","target":"PARTE II","before":367,"after":86,"delta":-281},
+  {"type":"replace_top","target":"PARTE V — O EU EMPRESTADO EM FUNCIONAMENTO","before":266,"after":53,"delta":-213},
+  {"type":"replace_top","target":"PARTE VI — O RETORNO DA AUTORIA","before":282,"after":49,"delta":-233},
+  {"type":"replace_heading","target":"Narrativa não é sinônimo de mentira","before":354,"after":102,"delta":-252},
+  {"type":"replace_heading","target":"Quando mudar o nome muda o dever","before":329,"after":138,"delta":-191},
+  {"type":"replace_heading","target":"Quando não houver tempo para escrever tudo","before":297,"after":64,"delta":-233},
+  {"type":"replace_heading","target":"Estudo de caso composto: a celebração proibida e o funeral permitido","before":515,"after":121,"delta":-394},
+  {"type":"replace_heading","target":"Estudo de caso composto: a neutralidade que dependia da política","before":745,"after":92,"delta":-653},
+  {"type":"replace_heading","target":"Nove sinais de passagem","before":318,"after":115,"delta":-203},
+  {"type":"replace_heading","target":"O que os fornecedores têm em comum — e o que não têm","before":318,"after":112,"delta":-206},
+  {"type":"replace_heading","target":"Quando a linguagem recebida começa a parecer pensamento próprio","before":677,"after":169,"delta":-508},
+  {"type":"replace_heading","target":"Proteção necessária, conceitos dilatados","before":667,"after":232,"delta":-435},
+  {"type":"replace_heading","target":"Seitas, relações abusivas, idolatria política e por que a inteligência sozinha não liberta","before":346,"after":119,"delta":-227},
+  {"type":"replace_heading","target":"Não é a quantidade, sozinha","before":293,"after":67,"delta":-226},
+  {"type":"replace_heading","target":"O teste da escolha interrompida","before":270,"after":62,"delta":-208}
+]
