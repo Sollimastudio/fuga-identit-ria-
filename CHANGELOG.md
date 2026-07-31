@@ -1,5 +1,18 @@
 # Registro de Mudanças
 
+## 31 de julho de 2026 — Camada 11, fechamento Kindle
+
+- registrada a versão integral da obra com seis partes e 24 capítulos;
+- acrescentados direitos e edição, navegação interna, recursos de apoio e segurança e nota biográfica;
+- corrigido o órfão final do epílogo;
+- preparados DOCX refluível, EPUB 3.3, PDF técnico e capa 1600 × 2560;
+- preservadas 21 figuras com legenda e texto alternativo;
+- adicionados metadados KDP, checklist Kindle Create, decisões pendentes, relatórios e hashes;
+- EPUBCheck concluído sem erros ou avisos;
+- camada mantida para revisão de Sol, sem declaração de canonicidade ou publicação;
+- registrada como pendência a última lapidação visual mobile-first e a criação dos mestres vetoriais ainda ausentes.
+
+
 Todas as mudanças relevantes deste projeto serão registradas neste arquivo.
 
 ## 2026-07-27 — Continuidade canônica entre chats

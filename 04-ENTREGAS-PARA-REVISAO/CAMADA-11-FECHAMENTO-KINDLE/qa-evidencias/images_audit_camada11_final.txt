@@ -1,0 +1,25 @@
+IMAGE KINDS
+- inline: 21
+
+ROWS (part | kind | size | target)
+- word/document.xml | inline | 4.08 x 2.45 | media/rId31.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId59.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId79.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId106.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId117.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId132.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId153.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId161.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId174.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId190.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId210.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId215.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId230.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId241.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId265.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId281.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId287.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId321.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId348.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId376.png
+- word/document.xml | inline | 4.08 x 2.45 | media/rId382.png

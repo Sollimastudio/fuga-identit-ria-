@@ -1,5 +1,15 @@
 # Manifesto de Arquivos e Integridade
 
+## ADENDO — CAMADA 11
+
+**Data:** 31 de julho de 2026  
+**Destino:** `04-ENTREGAS-PARA-REVISAO/CAMADA-11-FECHAMENTO-KINDLE/`
+
+O fechamento Kindle da obra completa foi acrescentado sem apagar ou substituir as Entregas 0–2 e demais registros históricos. A pasta contém fonte Markdown, capa, 21 figuras, automação, relatórios, hashes e os binários DOCX, EPUB e PDF em partes numeradas reconstruíveis por script.
+
+A fonte de integridade da camada é `HASHES_SHA256_CAMADA_11.txt`; a recomposição dos arquivos maiores é feita por `RECONSTRUIR_BINARIOS_CAMADA_11.sh`. A camada está tecnicamente concluída para revisão, mas não foi declarada aprovada ou publicada.
+
+
 **Data do inventário:** 27 de julho de 2026  
 **Objetivo:** comprovar que todo material editorial existente nesta etapa foi preservado e recebeu destino explícito.
 

@@ -1,5 +1,23 @@
 # Status Editorial
 
+## CAMADA 11 — FECHAMENTO KINDLE
+
+**Atualização:** 31 de julho de 2026  
+**Estado:** obra completa executada e auditada para revisão de Sol
+
+- seis partes e 24 capítulos preservados;
+- 65.694 palavras antes das referências;
+- 21 figuras funcionais;
+- DOCX refluível, EPUB 3.3, PDF de prova e capa Kindle preparados;
+- EPUBCheck: 0 erros e 0 avisos;
+- acessibilidade do DOCX: 0 achados;
+- pacote registrado em `04-ENTREGAS-PARA-REVISAO/CAMADA-11-FECHAMENTO-KINDLE/`;
+- Kindle Create/KPF, aprovação autoral e publicação: pendentes;
+- lapidação visual mobile-first e mestres SVG faltantes: pendentes antes do fechamento visual definitivo.
+
+A tabela histórica de Entregas 0–7 abaixo permanece como registro do ciclo anterior. Para o estado corrente da obra completa, prevalece esta atualização.
+
+
 **Atualização:** 27 de julho de 2026  
 **Arquitetura:** versão 2.0 canônica  
 **Estado geral:** Entrega 0 concluída e revisada; Entregas 1 e 2 concluídas tecnicamente e aguardando revisão de Sol

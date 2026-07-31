@@ -1,0 +1,14 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+BAAAAA+Carlito-Bold                  TrueType          WinAnsi          yes yes yes   4428  0
+CAAAAA+NimbusSansNarrow-Bold         Type 1            Builtin          yes yes yes   4453  0
+DAAAAA+NimbusSans-Regular            Type 1            Builtin          yes yes yes   4463  0
+EAAAAA+Carlito-Bold                  TrueType          WinAnsi          yes yes yes   4438  0
+FAAAAA+BitstreamCharter-Regular      TrueType          WinAnsi          yes yes yes   4418  0
+GAAAAA+BitstreamCharter-Bold         TrueType          WinAnsi          yes yes yes   4448  0
+HAAAAA+BitstreamCharter-Italic       TrueType          WinAnsi          yes yes yes   4413  0
+IAAAAA+Carlito-Bold                  TrueType          WinAnsi          yes yes yes   4443  0
+JAAAAA+NimbusSans-Regular            Type 1            Builtin          yes yes yes   4458  0
+KAAAAA+DejaVuSerif-Bold              TrueType          WinAnsi          yes yes yes   4423  0
+LAAAAA+Carlito-Bold                  TrueType          WinAnsi          yes yes yes   4433  0
+MAAAAA+BitstreamCharter-BoldItalic   TrueType          WinAnsi          yes yes yes   4408  0

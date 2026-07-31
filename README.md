@@ -1,5 +1,12 @@
 # Fuga Identitária
 
+## ATUALIZAÇÃO — CAMADA 11
+
+Em 31 de julho de 2026, a obra completa recebeu a **Camada 11 — Fechamento Kindle**, preservada em `04-ENTREGAS-PARA-REVISAO/CAMADA-11-FECHAMENTO-KINDLE/`. Ela contém o manuscrito integral, DOCX refluível, EPUB validado, PDF de prova, capa, 21 diagramas, metadados, checklist e QA.
+
+Esta camada está **concluída tecnicamente e aguardando revisão de Sol**. Não substitui silenciosamente o manuscrito mestre histórico e não foi declarada aprovada, canônica ou publicada. O fechamento visual definitivo ainda inclui a lapidação mobile-first e os mestres vetoriais pendentes de parte das figuras.
+
+
 ## A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  

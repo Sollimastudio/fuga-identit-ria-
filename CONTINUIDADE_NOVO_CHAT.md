@@ -1,5 +1,24 @@
 # CONTINUIDADE CANÔNICA PARA NOVO CHAT
 
+## ATUALIZAÇÃO DE CONTINUIDADE — CAMADA 11
+
+**Data:** 31 de julho de 2026
+
+O handoff histórico abaixo registra corretamente o estado de 27 de julho, mas não é mais o ponto final da produção. Depois dele, o manuscrito completo passou pelas camadas editoriais de travessia, abertura Kindle e fechamento Kindle.
+
+O estado atual está em `04-ENTREGAS-PARA-REVISAO/CAMADA-11-FECHAMENTO-KINDLE/`:
+
+- Camada 11 executada integralmente;
+- seis partes e 24 capítulos;
+- 65.694 palavras antes das referências;
+- 21 figuras;
+- DOCX, EPUB, PDF e capa preparados;
+- QA local aprovado;
+- revisão de Sol, lapidação visual final, Kindle Create/KPF e publicação ainda pendentes.
+
+Nenhum novo chat deve reiniciar na Entrega 3 ou presumir que a obra ainda termina na Entrega 2. Deve primeiro ler `LEIA-ME-GITHUB_CAMADA_11.md`, `RELATORIO_EDITORIAL_CAMADA_11.md`, `RELATORIO_QA_CAMADA_11.md` e `DECISOES_PENDENTES_DE_SOL_CAMADA_11.md` dentro da pasta acima.
+
+
 ## Fuga Identitária: A Anatomia da Diluição do Eu
 
 **Autora:** Sol Lima  

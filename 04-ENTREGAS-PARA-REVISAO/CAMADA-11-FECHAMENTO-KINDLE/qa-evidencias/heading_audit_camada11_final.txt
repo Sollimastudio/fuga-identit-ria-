@@ -1,0 +1,30 @@
+HEADING STYLE COUNTS
+- Heading 1: 41
+- Heading 2: 213
+- Heading 3: 82
+
+NUMBERING WITHOUT HEADING STYLE (common TOC issue)
+- p#27: style='Compact' text='Recupere a pergunta — Parte I. Antes de buscar propósito, distinga exploração, m'
+- p#28: style='Compact' text='Leia a narrativa — Parte II. Separe fato, recorte, interpretação, reclassificaçã'
+- p#29: style='Compact' text='Identifique os fornecedores — Parte III. Observe o que família, telas, personage'
+- p#30: style='Compact' text='Reconheça a ocupação — Parte IV. Acompanhe a passagem da exposição à fusão, calc'
+- p#31: style='Compact' text='Separe dano de destino — Parte V. Devolva culpa e reparação a quem pertencem; re'
+- p#32: style='Compact' text='Retorne à autoria — Parte VI. Examine quem está pensando, pertença sem desaparec'
+- p#794: style='Compact' text='eixo não é o meio entre duas respostas;'
+- p#795: style='Compact' text='eixo não é neutralidade diante do que exige posição;'
+- p#796: style='Compact' text='eixo não é dar metade da razão para cada lado;'
+- p#797: style='Compact' text='eixo não produz falsa equivalência entre quem agride e quem precisa impor limite'
+- p#798: style='Compact' text='o eixo pode levar a uma posição firme, inclusive muito próxima de um dos polos;'
+- p#799: style='Compact' text='a diferença está em chegar por critério, e não por reflexo, medo de expulsão ou '
+- p#865: style='Compact' text='Minha conclusão respeita os fatos?'
+- p#866: style='Compact' text='Considerei o contexto?'
+- p#867: style='Compact' text='A resposta é proporcional?'
+- p#868: style='Compact' text='Estou usando o mesmo critério?'
+- p#869: style='Compact' text='Reconheci as consequências?'
+- p#870: style='Compact' text='Preservei responsabilidade?'
+- p#871: style='Compact' text='O outro continua sendo uma pessoa?'
+- p#1113: style='Compact' text='vocabulário exclusivo que invalida perguntas externas;'
+- ... (140 more)
+
+REMINDER
+- TOC relies on Heading styles (Heading 1/2/3...). Avoid manual numbering + direct formatting for headings.

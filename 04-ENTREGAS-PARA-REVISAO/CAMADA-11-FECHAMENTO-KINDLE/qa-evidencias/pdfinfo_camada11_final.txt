@@ -1,0 +1,21 @@
+Title:           Fuga Identitária
+Subject:         Identidade; autoria; narrativas; pensamento crítico; autoconhecimento
+Keywords:        Identidade, autoria, narrativas, pensamento, crítico, autoconhecimento
+Author:          Sol Lima
+Creator:         Writer
+Producer:        LibreOfficeDev 26.8.0.0.alpha0 (X86_64)
+CreationDate:    Fri Jul 31 13:02:12 2026 -03
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           357
+Encrypted:       no
+Page size:       396.85 x 595.304 pts
+Page rot:        0
+File size:       2622643 bytes
+Optimized:       no
+PDF version:     1.7
