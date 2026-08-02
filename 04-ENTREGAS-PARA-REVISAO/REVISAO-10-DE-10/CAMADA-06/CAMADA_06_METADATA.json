@@ -1,0 +1,10 @@
+{
+  "layer": 6,
+  "base": "FUGA_IDENTITARIA_MANUSCRITO_CAMADA_05.md",
+  "output": "FUGA_IDENTITARIA_MANUSCRITO_CAMADA_06.md",
+  "word_count": 60133,
+  "sha256_manuscript": "0e127915a080f942c8ec4215dd3f0f54e38cae84d75c84a450bc318fd0a3a49b",
+  "sha256_package": "e981f71fe510e58df3ff951635ff268b6a9d916db3e2b27867e8893c77ed374c",
+  "status": "executada; pronta para Camada 7",
+  "date": "2026-07-29"
+}

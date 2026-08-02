@@ -1,0 +1,40 @@
+{
+  "base_file": "/mnt/data/FUGA_IDENTITARIA_MANUSCRITO_CAMADA_04.md",
+  "base_sha256": "9e94fe8b5feb3238972d623380ebaf7f5564d9214ce8d08e75f45ae6e62f6b5d",
+  "output_file": "/mnt/data/FUGA_IDENTITARIA_MANUSCRITO_CAMADA_05.md",
+  "output_sha256": "c268e6cdf061427562ab5dd3d2ae44d7750587648ca1f8401ae3255c874afeb0",
+  "base_words": 65101,
+  "output_words": 60575,
+  "reduction_words": 4526,
+  "reduction_percent": 6.952,
+  "interventions": 16,
+  "chapter_count": 24,
+  "figure_count": 21,
+  "metrics_before": {
+    "words": 65101,
+    "sentences": 5254,
+    "avg_sentence_words": 12.39,
+    "paragraphs": 2324,
+    "questions": 465,
+    "headings": 311,
+    "commands": 17
+  },
+  "metrics_after": {
+    "words": 60575,
+    "sentences": 4936,
+    "avg_sentence_words": 12.27,
+    "paragraphs": 2203,
+    "questions": 451,
+    "headings": 313,
+    "commands": 17
+  },
+  "anchor_counts": {
+    "Helena": 37,
+    "Caio": 25,
+    "Marina": 23,
+    "Alex": 19,
+    "Rafael": 29
+  },
+  "figures": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21],
+  "chapters": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+}
