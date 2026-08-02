@@ -70,3 +70,15 @@ A tabela histórica de Entregas 0–7 abaixo permanece como registro do ciclo an
 1. Sol revisar a Entrega 2 e apontar cortes, aprofundamentos ou correções.
 2. Após a revisão, iniciar a Entrega 3 — Parte III inteira, capítulos 8 a 12.
 3. Não fundir as Entregas 1 ou 2 ao manuscrito mestre antes da aprovação explícita.
+
+<!-- STATUS-ENTREGA-03-2026-07-27 -->
+## Entrega 3 — Parte III — Os fornecedores do eu
+
+- capítulos 8 a 12 completos;
+- texto principal: 9.885 palavras;
+- faixa editorial: 114–172;
+- figuras: FIG-07 a FIG-10;
+- DOCX e PDF concluídos e auditados;
+- estado: **aguardando revisão de Sol**;
+- manuscrito mestre: **não alterado**;
+- próxima entrega preparada: Parte IV — capítulos 13 a 17.

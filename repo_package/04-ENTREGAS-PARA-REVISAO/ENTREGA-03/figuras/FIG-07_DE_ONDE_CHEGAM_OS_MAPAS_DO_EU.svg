@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250" role="img" aria-labelledby="title desc">
+<title id="title">De onde chegam os mapas do eu</title><desc id="desc">Diagrama dos primeiros mapas do eu. Família e cuidadores, pares e escola, cultura e fé, telas e plataformas, e acontecimentos e condições enviam interpretações iniciais ao eu. O leitor pode examinar, integrar, revisar ou recusar esses mapas.</desc>
+<rect width="2000" height="1250" fill="#F4EFE6"/>
+<style>
+.title{font-family:'Nimbus Sans Narrow','Arial Narrow',sans-serif;font-size:70px;font-weight:700;fill:#0B1020;letter-spacing:1px}
+.sub{font-family:'Nimbus Sans',Arial,sans-serif;font-size:32px;fill:#20242B}
+.head{font-family:'Nimbus Sans',Arial,sans-serif;font-size:36px;font-weight:700;fill:#0B1020}
+.body{font-family:'Nimbus Sans',Arial,sans-serif;font-size:29px;fill:#20242B}
+.small{font-family:'Nimbus Sans',Arial,sans-serif;font-size:25px;fill:#20242B}
+.box{fill:#FBF8F2;stroke:#5F7F83;stroke-width:5;rx:26}
+.arrow{stroke:#D84A3A;stroke-width:8;fill:none;marker-end:url(#arrow)}
+.soft{stroke:#5F7F83;stroke-width:5;fill:none;marker-end:url(#arrow2)}
+</style>
+<defs><marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#D84A3A"/></marker><marker id="arrow2" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#5F7F83"/></marker></defs>
+
+<text x="1000" y="100" text-anchor="middle" class="title">DE ONDE CHEGAM OS MAPAS DO EU</text>
+<text x="1000" y="150" text-anchor="middle" class="sub">Primeiras interpretações não são destino: podem ser examinadas</text>
+<rect x="735" y="465" width="530" height="190" class="box" fill="#0B1020"/>
+<text x="1000" y="535" text-anchor="middle" class="head">MAPAS DO EU</text>
+<text x="1000" y="585" text-anchor="middle" class="body">amor · perigo · valor</text>
+<text x="1000" y="625" text-anchor="middle" class="body">voz · pertencimento</text>
+<rect x="80" y="240" width="420" height="150" class="box"/><text x="290" y="300" text-anchor="middle" class="head">Família e cuidadores</text><text x="290" y="345" text-anchor="middle" class="small">presença · limite · reação</text>
+<rect x="790" y="225" width="420" height="150" class="box"/><text x="1000" y="285" text-anchor="middle" class="head">Pares e escola</text><text x="1000" y="330" text-anchor="middle" class="small">comparação · regra · status</text>
+<rect x="1500" y="240" width="420" height="150" class="box"/><text x="1710" y="300" text-anchor="middle" class="head">Cultura e fé</text><text x="1710" y="345" text-anchor="middle" class="small">símbolo · memória · valor</text>
+<rect x="210" y="740" width="470" height="150" class="box"/><text x="445" y="800" text-anchor="middle" class="head">Telas e plataformas</text><text x="445" y="845" text-anchor="middle" class="small">repetição · recomendação</text>
+<rect x="1320" y="740" width="470" height="150" class="box"/><text x="1555" y="800" text-anchor="middle" class="head">Acontecimentos</text><text x="1555" y="845" text-anchor="middle" class="small">perdas · condições · encontros</text>
+<path d="M500 350 C650 380 720 430 790 485" class="soft"/><path d="M1000 375 L1000 450" class="soft"/><path d="M1500 350 C1350 380 1280 430 1210 485" class="soft"/><path d="M680 790 C790 720 820 680 850 650" class="soft"/><path d="M1320 790 C1210 720 1180 680 1150 650" class="soft"/>
+<path d="M1000 655 L1000 970" class="arrow"/>
+<rect x="455" y="970" width="1090" height="170" rx="28" fill="#0B1020"/>
+<text x="1000" y="1035" text-anchor="middle" style="font-family:'Nimbus Sans',Arial;font-size:38px;font-weight:700;fill:#F4EFE6">AUTORIA ADULTA</text>
+<text x="1000" y="1090" text-anchor="middle" style="font-family:'Nimbus Sans',Arial;font-size:31px;fill:#F4EFE6">examinar · integrar · revisar · recusar</text>
+</svg>

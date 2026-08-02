@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250" role="img" aria-labelledby="title desc">
+<title id="title">Eu vivido e eu exibido</title><desc id="desc">Diagrama de quatro dimensões: eu vivido, eu ideal, eu exibido e eu percebido pela audiência. As setas mostram tensões e traduções entre as dimensões, sem tratar a discrepância como diagnóstico.</desc>
+<rect width="2000" height="1250" fill="#F4EFE6"/>
+<style>
+.title{font-family:'Nimbus Sans Narrow','Arial Narrow',sans-serif;font-size:70px;font-weight:700;fill:#0B1020;letter-spacing:1px}
+.sub{font-family:'Nimbus Sans',Arial,sans-serif;font-size:32px;fill:#20242B}
+.head{font-family:'Nimbus Sans',Arial,sans-serif;font-size:36px;font-weight:700;fill:#0B1020}
+.body{font-family:'Nimbus Sans',Arial,sans-serif;font-size:29px;fill:#20242B}
+.small{font-family:'Nimbus Sans',Arial,sans-serif;font-size:25px;fill:#20242B}
+.box{fill:#FBF8F2;stroke:#5F7F83;stroke-width:5;rx:26}
+.arrow{stroke:#D84A3A;stroke-width:8;fill:none;marker-end:url(#arrow)}
+.soft{stroke:#5F7F83;stroke-width:5;fill:none;marker-end:url(#arrow2)}
+</style>
+<defs><marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#D84A3A"/></marker><marker id="arrow2" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#5F7F83"/></marker></defs>
+
+<text x="1000" y="100" text-anchor="middle" class="title">EU VIVIDO E EU EXIBIDO</text>
+<text x="1000" y="150" text-anchor="middle" class="sub">Diferença não é falsidade; o risco é o personagem proibir a pessoa</text>
+<circle cx="600" cy="455" r="235" fill="#FBF8F2" stroke="#5F7F83" stroke-width="6"/><text x="600" y="420" text-anchor="middle" class="head">EU VIVIDO</text><text x="600" y="470" text-anchor="middle" class="body">experiência · limite</text><text x="600" y="510" text-anchor="middle" class="body">ambivalência · intimidade</text>
+<circle cx="1400" cy="455" r="235" fill="#FBF8F2" stroke="#D84A3A" stroke-width="6"/><text x="1400" y="420" text-anchor="middle" class="head">EU IDEAL</text><text x="1400" y="470" text-anchor="middle" class="body">aspiração · dever</text><text x="1400" y="510" text-anchor="middle" class="body">medo · promessa</text>
+<circle cx="600" cy="895" r="235" fill="#FBF8F2" stroke="#D84A3A" stroke-width="6"/><text x="600" y="860" text-anchor="middle" class="head">EU EXIBIDO</text><text x="600" y="910" text-anchor="middle" class="body">recorte · estética</text><text x="600" y="950" text-anchor="middle" class="body">legenda · marca</text>
+<circle cx="1400" cy="895" r="235" fill="#FBF8F2" stroke="#5F7F83" stroke-width="6"/><text x="1400" y="850" text-anchor="middle" class="head">EU PERCEBIDO</text><text x="1400" y="895" text-anchor="middle" class="head">PELA AUDIÊNCIA</text><text x="1400" y="945" text-anchor="middle" class="body">expectativa · projeção</text>
+<path d="M835 455 L1165 455" class="soft"/><path d="M600 690 L600 660" class="soft"/><path d="M835 895 L1165 895" class="soft"/><path d="M1400 690 L1400 660" class="soft"/>
+<rect x="810" y="580" width="380" height="190" rx="95" fill="#0B1020"/><text x="1000" y="650" text-anchor="middle" style="font-family:'Nimbus Sans';font-size:33px;font-weight:700;fill:#F4EFE6">TENSÃO</text><text x="1000" y="700" text-anchor="middle" style="font-family:'Nimbus Sans';font-size:28px;fill:#F4EFE6">não é diagnóstico</text><text x="1000" y="742" text-anchor="middle" style="font-family:'Nimbus Sans';font-size:25px;fill:#F4EFE6">é pista para exame</text>
+</svg>

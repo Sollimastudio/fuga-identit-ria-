@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250" role="img" aria-labelledby="title desc">
+<title id="title">O ciclo da recomendação</title><desc id="desc">Ciclo de recomendação. Atenção observada gera padrão inferido, que produz conteúdo recomendado, nova atenção e atualização do modelo. Uma nota ressalta que atenção não equivale a intenção ou identidade e que existe assimetria entre dados da plataforma e visão do usuário.</desc>
+<rect width="2000" height="1250" fill="#F4EFE6"/>
+<style>
+.title{font-family:'Nimbus Sans Narrow','Arial Narrow',sans-serif;font-size:70px;font-weight:700;fill:#0B1020;letter-spacing:1px}
+.sub{font-family:'Nimbus Sans',Arial,sans-serif;font-size:32px;fill:#20242B}
+.head{font-family:'Nimbus Sans',Arial,sans-serif;font-size:36px;font-weight:700;fill:#0B1020}
+.body{font-family:'Nimbus Sans',Arial,sans-serif;font-size:29px;fill:#20242B}
+.small{font-family:'Nimbus Sans',Arial,sans-serif;font-size:25px;fill:#20242B}
+.box{fill:#FBF8F2;stroke:#5F7F83;stroke-width:5;rx:26}
+.arrow{stroke:#D84A3A;stroke-width:8;fill:none;marker-end:url(#arrow)}
+.soft{stroke:#5F7F83;stroke-width:5;fill:none;marker-end:url(#arrow2)}
+</style>
+<defs><marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#D84A3A"/></marker><marker id="arrow2" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#5F7F83"/></marker></defs>
+<text x="1000" y="100" text-anchor="middle" class="title">O CICLO DA RECOMENDAÇÃO</text><text x="1000" y="150" text-anchor="middle" class="sub">A resposta futura também depende do que foi tornado visível</text><rect x="100" y="410" width="350" height="150" class="box"/><text x="275" y="472" text-anchor="middle" class="head">ATENÇÃO</text><text x="275" y="514" text-anchor="middle" class="head">OBSERVADA</text><rect x="480" y="230" width="350" height="150" class="box"/><text x="655" y="292" text-anchor="middle" class="head">PADRÃO</text><text x="655" y="334" text-anchor="middle" class="head">INFERIDO</text><rect x="980" y="230" width="350" height="150" class="box"/><text x="1155" y="292" text-anchor="middle" class="head">CONTEÚDO</text><text x="1155" y="334" text-anchor="middle" class="head">RECOMENDADO</text><rect x="1480" y="410" width="350" height="150" class="box"/><text x="1655" y="472" text-anchor="middle" class="head">NOVA</text><text x="1655" y="514" text-anchor="middle" class="head">ATENÇÃO</text><rect x="980" y="720" width="350" height="150" class="box"/><text x="1155" y="782" text-anchor="middle" class="head">MODELO</text><text x="1155" y="824" text-anchor="middle" class="head">ATUALIZADO</text><rect x="480" y="720" width="350" height="150" class="box"/><text x="655" y="782" text-anchor="middle" class="head">PERFIL DE</text><text x="655" y="824" text-anchor="middle" class="head">PREFERÊNCIA</text><path d="M450 485 L520 360" class="arrow"/><path d="M830 305 L980 305" class="arrow"/><path d="M1330 305 L1510 420" class="arrow"/><path d="M1655 560 L1330 760" class="arrow"/><path d="M980 795 L830 795" class="arrow"/><path d="M480 760 L260 560" class="arrow"/>
+<rect x="335" y="990" width="1330" height="150" rx="28" fill="#0B1020"/>
+<text x="1000" y="1045" text-anchor="middle" style="font-family:'Nimbus Sans';font-size:34px;font-weight:700;fill:#F4EFE6">ATENÇÃO ≠ INTENÇÃO ≠ IDENTIDADE</text>
+<text x="1000" y="1092" text-anchor="middle" style="font-family:'Nimbus Sans';font-size:28px;fill:#F4EFE6">usuário vê a seleção · plataforma mede sinais em escala</text></svg>

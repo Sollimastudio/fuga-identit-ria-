@@ -1813,3 +1813,14 @@ Todos receberam nome fictício e combinação de circunstâncias. Nenhum deriva 
 - FIG-02 produzida no sistema visual da obra;
 - DOCX e PDF 14 × 21 cm concluídos;
 - estado: **aguardando revisão de Sol**.
+
+<!-- CENTRAL-PESQUISA-ENTREGA-03-2026-07-27 -->
+## Registro de pesquisa — Entrega 3
+
+**Escopo:** Parte III — *Os fornecedores do eu*, capítulos 8 a 12. Foram promovidas fontes sobre desenvolvimento identitário, autonomia parental, mediação de mídia, sistemas de recomendação, comparação social, relações parassociais, avatares, fusão de identidade, feminismos, manosfera, terminologia LGBTQIA+, apagamento bissexual e comunidades therian/otherkin.
+
+**Correções protegidas:** algoritmo não conhece essência; telas não foram usadas para diagnosticar; movimentos diferentes não foram declarados moralmente equivalentes; LGBTQIA+ não foi tratada como fuga; o sinal “+” não incorpora qualquer autoidentificação; therian/otherkin foram separados de LGBTQIA+ e de licantropia clínica; amostras qualitativas pequenas não foram usadas para prevalência.
+
+**Registro detalhado:** `02-PESQUISA-E-CONTROLE/REGISTRO_PESQUISA_ENTREGA_03.md`.
+
+**Estado:** pesquisa verificada e promovida para a Entrega 3; conteúdo aguardando revisão de Sol; sem fusão ao manuscrito mestre.

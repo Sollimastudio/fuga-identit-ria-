@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250" role="img" aria-labelledby="title desc">
+<title id="title">Quando a causa começa a usar a pessoa</title><desc id="desc">Comparação entre causa que serve à pessoa e causa que passa a usar a pessoa. No caminho saudável, injustiça leva a linguagem, solidariedade, ação e revisão. No caminho de captura, vocabulário exclusivo, inimigo, pureza, punição à dúvida e custo de saída crescente reduzem autoria.</desc>
+<rect width="2000" height="1250" fill="#F4EFE6"/>
+<style>
+.title{font-family:'Nimbus Sans Narrow','Arial Narrow',sans-serif;font-size:70px;font-weight:700;fill:#0B1020;letter-spacing:1px}
+.sub{font-family:'Nimbus Sans',Arial,sans-serif;font-size:32px;fill:#20242B}
+.head{font-family:'Nimbus Sans',Arial,sans-serif;font-size:36px;font-weight:700;fill:#0B1020}
+.body{font-family:'Nimbus Sans',Arial,sans-serif;font-size:29px;fill:#20242B}
+.small{font-family:'Nimbus Sans',Arial,sans-serif;font-size:25px;fill:#20242B}
+.box{fill:#FBF8F2;stroke:#5F7F83;stroke-width:5;rx:26}
+.arrow{stroke:#D84A3A;stroke-width:8;fill:none;marker-end:url(#arrow)}
+.soft{stroke:#5F7F83;stroke-width:5;fill:none;marker-end:url(#arrow2)}
+</style>
+<defs><marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#D84A3A"/></marker><marker id="arrow2" markerWidth="14" markerHeight="14" refX="11" refY="5" orient="auto"><path d="M0,0 L0,10 L12,5 z" fill="#5F7F83"/></marker></defs>
+
+<text x="1000" y="100" text-anchor="middle" class="title">QUANDO A CAUSA COMEÇA A USAR A PESSOA</text>
+<text x="1000" y="150" text-anchor="middle" class="sub">Comparar mecanismos não iguala histórias, ideias ou danos</text>
+<rect x="80" y="225" width="840" height="900" rx="30" fill="#FBF8F2" stroke="#5F7F83" stroke-width="6"/>
+<text x="500" y="295" text-anchor="middle" class="head">A CAUSA SERVE À PESSOA</text>
+<rect x="1080" y="225" width="840" height="900" rx="30" fill="#FBF8F2" stroke="#D84A3A" stroke-width="6"/>
+<text x="1500" y="295" text-anchor="middle" class="head">A PESSOA SERVE À CAUSA</text>
+<rect x="190" y="350" width="620" height="95" class="box"/><text x="500" y="409" text-anchor="middle" class="body">Injustiça ou necessidade</text><path d="M500 445 L500 485" class="soft"/><rect x="190" y="495" width="620" height="95" class="box"/><text x="500" y="554" text-anchor="middle" class="body">Linguagem e memória</text><path d="M500 590 L500 630" class="soft"/><rect x="190" y="640" width="620" height="95" class="box"/><text x="500" y="699" text-anchor="middle" class="body">Solidariedade</text><path d="M500 735 L500 775" class="soft"/><rect x="190" y="785" width="620" height="95" class="box"/><text x="500" y="844" text-anchor="middle" class="body">Ação responsável</text><path d="M500 880 L500 920" class="soft"/><rect x="190" y="930" width="620" height="95" class="box"/><text x="500" y="989" text-anchor="middle" class="body">Revisão · crítica · saída</text><rect x="1190" y="335" width="620" height="85" class="box"/><text x="1500" y="389" text-anchor="middle" class="body">Vocabulário exclusivo</text><path d="M1745 420 L1745 450" class="arrow"/><rect x="1190" y="460" width="620" height="85" class="box"/><text x="1500" y="514" text-anchor="middle" class="body">Inimigo indispensável</text><path d="M1745 545 L1745 575" class="arrow"/><rect x="1190" y="585" width="620" height="85" class="box"/><text x="1500" y="639" text-anchor="middle" class="body">Teste de pureza</text><path d="M1745 670 L1745 700" class="arrow"/><rect x="1190" y="710" width="620" height="85" class="box"/><text x="1500" y="764" text-anchor="middle" class="body">Dúvida punida</text><path d="M1745 795 L1745 825" class="arrow"/><rect x="1190" y="835" width="620" height="85" class="box"/><text x="1500" y="889" text-anchor="middle" class="body">Missão ocupa a vida</text><path d="M1745 920 L1745 950" class="arrow"/><rect x="1190" y="960" width="620" height="85" class="box"/><text x="1500" y="1014" text-anchor="middle" class="body">Custo de saída cresce</text><text x="500" y="1080" text-anchor="middle" class="head">autoria ampliada</text><text x="1500" y="1080" text-anchor="middle" class="head">autoria terceirizada</text></svg>
